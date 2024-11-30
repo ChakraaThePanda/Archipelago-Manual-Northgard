@@ -17,4 +17,4 @@ In every Conquest, the maps will be unlocked the same way:
 * When a small map is completed and not followed by a big map, you will again unlock 2 new maps, a top and bottom one. For example Chapter 3.
 * Basically just remember that each "Chapter" comes in either a single 1 big map, or a group of 2 small maps. There will always be a top and bottom map in each Conquest map pairs.
 
-![Chapters Explanation](/assets/images/electrocat.png)
+![Chapters Explanation](assets/images/chapters.png)
