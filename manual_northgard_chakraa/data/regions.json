@@ -1,0 +1,73 @@
+{
+  "Chapter 1": {
+    "starting": true,
+    "connects_to": [
+      "Chapter 2 - Top",
+      "Chapter 2 - Bottom"
+    ],
+    "requires": []
+  },
+  "Chapter 2 - Top": {
+    "connects_to": [
+      "Chapter 3 - Top",
+      "Chapter 3 - Bottom"
+    ],
+    "requires": "|Chapter 2 - Top:1|"
+  },
+  "Chapter 2 - Bottom": {
+    "connects_to": [
+      "Chapter 3 - Top",
+      "Chapter 3 - Bottom"
+    ],
+    "requires": "|Chapter 2 - Bottom:1|"
+  },
+  "Chapter 3 - Top": {
+    "connects_to": [
+      "Chapter 4"
+    ],
+    "requires": "|Chapter 3 - Top:1|"
+  },
+  "Chapter 3 - Bottom": {
+    "connects_to": [
+      "Chapter 4"
+    ],
+    "requires": "|Chapter 3 - Bottom:1|"
+  },
+  "Chapter 4": {
+    "connects_to": [
+      "Chapter 5 - Top",
+      "Chapter 5 - Bottom"
+    ],
+    "requires": "|Chapter 4:1|"
+  },
+  "Chapter 5 - Top": {
+    "connects_to": [
+      "Chapter 6 - Top",
+      "Chapter 6 - Bottom"
+    ],
+    "requires": "|Chapter 5 - Top:1|"
+  },
+  "Chapter 5 - Bottom": {
+    "connects_to": [
+      "Chapter 6 - Top",
+      "Chapter 6 - Bottom"
+    ],
+    "requires": "|Chapter 5 - Bottom:1|"
+  },
+  "Chapter 6 - Top": {
+    "connects_to": [
+      "Chapter 7"
+    ],
+    "requires": "|Chapter 6 - Top:1|"
+  },
+  "Chapter 6 - Bottom": {
+    "connects_to": [
+      "Chapter 7"
+    ],
+    "requires": "|Chapter 6 - Bottom:1|"
+  },
+  "Chapter 7": {
+    "connects_to": [],
+    "requires": "|Chapter 7:1|"
+  }
+}

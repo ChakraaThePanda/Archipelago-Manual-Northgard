@@ -1,0 +1,497 @@
+[
+  {
+    "name": "Chapter 2 - Top",
+    "category": [
+      "Chapters"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Chapter 2 - Bottom",
+    "category": [
+      "Chapters"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Chapter 3 - Top",
+    "category": [
+      "Chapters"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Chapter 3 - Bottom",
+    "category": [
+      "Chapters"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Chapter 4",
+    "category": [
+      "Chapters"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Chapter 5 - Top",
+    "category": [
+      "Chapters"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Chapter 5 - Bottom",
+    "category": [
+      "Chapters"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Chapter 6 - Top",
+    "category": [
+      "Chapters"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Chapter 6 - Bottom",
+    "category": [
+      "Chapters"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Chapter 7",
+    "category": [
+      "Chapters"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Unit Upgrade: Villager / Subject",
+    "category": [
+      "Unit Upgrades"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Unit Upgrade: Farmer / Peasant",
+    "category": [
+      "Unit Upgrades"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Unit Upgrade: Hunter / Deerstalker",
+    "category": [
+      "Unit Upgrades"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Unit Upgrade: Fisherman / Angler",
+    "category": [
+      "Unit Upgrades"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Unit Upgrade: Scout / Pathfinder / Falconer / Norn",
+    "category": [
+      "Unit Upgrades"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Unit Upgrade: Woodcutter / Lumberjack",
+    "category": [
+      "Unit Upgrades"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Unit Upgrade: Healer / Monk",
+    "category": [
+      "Unit Upgrades"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Unit Upgrade: Sailor / Seafarer",
+    "category": [
+      "Unit Upgrades"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Unit Upgrade: Brewer / Taverner",
+    "category": [
+      "Unit Upgrades"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Unit Upgrade: Merchant",
+    "category": [
+      "Unit Upgrades"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Unit Upgrade: Miner",
+    "category": [
+      "Unit Upgrades"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Unit Upgrade: Smith",
+    "category": [
+      "Unit Upgrades"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Unit Upgrade: Loremaster",
+    "category": [
+      "Unit Upgrades"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Unit Upgrade: Warrior / Champion",
+    "category": [
+      "Unit Upgrades"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Unit Upgrade: Shield Bearer / Fantassin",
+    "category": [
+      "Unit Upgrades"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Unit Upgrade: Axe Thrower / Archer",
+    "category": [
+      "Unit Upgrades"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Unit Upgrade: Cook (Squirrel)",
+    "category": [
+      "Unit Upgrades",
+      "Squirrel DLC"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Unit Upgrade: Skald (Stag)",
+    "category": [
+      "Unit Upgrades"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Unit Upgrade: Mender (Boar)",
+    "category": [
+      "Unit Upgrades"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Unit Upgrade: Seeress (Kraken)",
+    "category": [
+      "Unit Upgrades",
+      "Kraken DLC"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Unit Upgrade: Herald (Fame Maps)",
+    "category": [
+      "Unit Upgrades"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Unit Upgrade: Tracker (Lynx)",
+    "category": [
+      "Unit Upgrades",
+      "Lynx DLC"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Unit Upgrade: Mercenary (Raven)",
+    "category": [
+      "Unit Upgrades"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Unit Upgrade: Skirmisher (Snake)",
+    "category": [
+      "Unit Upgrades",
+      "Snake DLC"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Unit Upgrade: Dragonkin (Dragon)",
+    "category": [
+      "Unit Upgrades",
+      "Dragon DLC"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Unit Upgrade: Draconic Nightmare (Dragon)",
+    "category": [
+      "Unit Upgrades",
+      "Dragon DLC"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Unit Upgrade: Valkyrie (Kraken)",
+    "category": [
+      "Unit Upgrades",
+      "Kraken DLC"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Unit Upgrade: Shaman (Rat)",
+    "category": [
+      "Unit Upgrades",
+      "Rat DLC"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Unit Upgrade: Sentry (Lion)",
+    "category": [
+      "Unit Upgrades",
+      "Lion DLC"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Unit Upgrade: Sentry (Stoat)",
+    "category": [
+      "Unit Upgrades",
+      "Stoat DLC"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Eikthyrnir - Stag Clan",
+    "category": [
+      "Clan"
+    ],
+    "count": 1,
+    "filler": true
+  },
+  {
+    "name": "Heidrun - Goat Clan",
+    "category": [
+      "Clan"
+    ],
+    "count": 1,
+    "filler": true
+  },
+  {
+    "name": "Fenrir - Wolf Clan",
+    "category": [
+      "Clan"
+    ],
+    "count": 1,
+    "filler": true
+  },
+  {
+    "name": "Huginn and Muninn - Raven Clan",
+    "category": [
+      "Clan"
+    ],
+    "count": 1,
+    "filler": true
+  },
+  {
+    "name": "Bjarki - Bear Clan",
+    "category": [
+      "Clan"
+    ],
+    "count": 1,
+    "filler": true
+  },
+  {
+    "name": "Slidrugtanni - Boar Clan",
+    "category": [
+      "Clan"
+    ],
+    "count": 1,
+    "filler": true
+  },
+  {
+    "name": "Sváfnir - Snake Clan",
+    "category": [
+      "Clan",
+      "Snake DLC"
+    ],
+    "count": 1,
+    "filler": true
+  },
+  {
+    "name": "Nidhogg - Dragon Clan",
+    "category": [
+      "Clan",
+      "Dragon DLC"
+    ],
+    "count": 1,
+    "filler": true
+  },
+  {
+    "name": "Svadilfari - Horse Clan",
+    "category": [
+      "Clan",
+      "Horse DLC"
+    ],
+    "count": 1,
+    "filler": true
+  },
+  {
+    "name": "Lyngbakr - Kraken Clan",
+    "category": [
+      "Clan",
+      "Kraken DLC"
+    ],
+    "count": 1,
+    "filler": true
+  },
+  {
+    "name": "Himminbrjotir - Ox Clan",
+    "category": [
+      "Clan",
+      "Ox DLC"
+    ],
+    "count": 1,
+    "filler": true
+  },
+  {
+    "name": "Brundr and Kaelinn - Lynx Clan",
+    "category": [
+      "Clan",
+      "Lynx DLC"
+    ],
+    "count": 1,
+    "filler": true
+  },
+  {
+    "name": "Ratatoskr - Squirrel Clan",
+    "category": [
+      "Clan",
+      "Squirrel DLC"
+    ],
+    "count": 1,
+    "filler": true
+  },
+  {
+    "name": "Dodsvagr - Rat Clan",
+    "category": [
+      "Clan",
+      "Rat DLC"
+    ],
+    "count": 1,
+    "filler": true
+  },
+  {
+    "name": "Hræsvelg - Eagle Clan",
+    "category": [
+      "Clan",
+      "Eagle DLC"
+    ],
+    "count": 1,
+    "filler": true
+  },
+  {
+    "name": "Neustria - Lion Clan",
+    "category": [
+      "Clan",
+      "Lion DLC"
+    ],
+    "count": 1,
+    "filler": true
+  },
+  {
+    "name": "Kernev - Stoat Clan",
+    "category": [
+      "Clan",
+      "Stoat DLC"
+    ],
+    "count": 1,
+    "filler": true
+  },
+  {
+    "name": "Vördr - Owl Clan",
+    "category": [
+      "Clan",
+      "Owl DLC"
+    ],
+    "count": 1,
+    "filler": true
+  },
+  {
+    "name": "Garm - Hound Clan",
+    "category": [
+      "Clan",
+      "Hound DLC"
+    ],
+    "count": 1,
+    "filler": true
+  }
+]

@@ -1,0 +1,331 @@
+[
+  {
+    "name": "Chapter 2 - Top - Item 1",
+    "category": [
+      "Chapter 2 - Top"
+    ],
+    "region": "Chapter 2 - Top",
+    "requires": []
+  },
+  {
+    "name": "Chapter 2 - Top - Item 2",
+    "category": [
+      "Chapter 2 - Top"
+    ],
+    "region": "Chapter 2 - Top",
+    "requires": []
+  },
+  {
+    "name": "Chapter 2 - Top - Item 3",
+    "category": [
+      "Chapter 2 - Top"
+    ],
+    "region": "Chapter 2 - Top",
+    "requires": []
+  },
+  {
+    "name": "Chapter 2 - Top - Item 4",
+    "category": [
+      "Chapter 2 - Top"
+    ],
+    "region": "Chapter 2 - Top",
+    "requires": []
+  },
+  {
+    "name": "Chapter 2 - Bottom - Item 1",
+    "category": [
+      "Chapter 2 - Bottom"
+    ],
+    "region": "Chapter 2 - Bottom",
+    "requires": []
+  },
+  {
+    "name": "Chapter 2 - Bottom - Item 2",
+    "category": [
+      "Chapter 2 - Bottom"
+    ],
+    "region": "Chapter 2 - Bottom",
+    "requires": []
+  },
+  {
+    "name": "Chapter 2 - Bottom - Item 3",
+    "category": [
+      "Chapter 2 - Bottom"
+    ],
+    "region": "Chapter 2 - Bottom",
+    "requires": []
+  },
+  {
+    "name": "Chapter 2 - Bottom - Item 4",
+    "category": [
+      "Chapter 2 - Bottom"
+    ],
+    "region": "Chapter 2 - Bottom",
+    "requires": []
+  },
+  {
+    "name": "Chapter 3 - Top - Item 1",
+    "category": [
+      "Chapter 3 - Top"
+    ],
+    "region": "Chapter 3 - Top",
+    "requires": []
+  },
+  {
+    "name": "Chapter 3 - Top - Item 2",
+    "category": [
+      "Chapter 3 - Top"
+    ],
+    "region": "Chapter 3 - Top",
+    "requires": []
+  },
+  {
+    "name": "Chapter 3 - Top - Item 3",
+    "category": [
+      "Chapter 3 - Top"
+    ],
+    "region": "Chapter 3 - Top",
+    "requires": []
+  },
+  {
+    "name": "Chapter 3 - Top - Item 4",
+    "category": [
+      "Chapter 3 - Top"
+    ],
+    "region": "Chapter 3 - Top",
+    "requires": []
+  },
+  {
+    "name": "Chapter 3 - Bottom - Item 1",
+    "category": [
+      "Chapter 3 - Bottom"
+    ],
+    "region": "Chapter 3 - Bottom",
+    "requires": []
+  },
+  {
+    "name": "Chapter 3 - Bottom - Item 2",
+    "category": [
+      "Chapter 3 - Bottom"
+    ],
+    "region": "Chapter 3 - Bottom",
+    "requires": []
+  },
+  {
+    "name": "Chapter 3 - Bottom - Item 3",
+    "category": [
+      "Chapter 3 - Bottom"
+    ],
+    "region": "Chapter 3 - Bottom",
+    "requires": []
+  },
+  {
+    "name": "Chapter 3 - Bottom - Item 4",
+    "category": [
+      "Chapter 3 - Bottom"
+    ],
+    "region": "Chapter 3 - Bottom",
+    "requires": []
+  },
+  {
+    "name": "Chapter 5 - Top - Item 1",
+    "category": [
+      "Chapter 5 - Top"
+    ],
+    "region": "Chapter 5 - Top",
+    "requires": []
+  },
+  {
+    "name": "Chapter 5 - Top - Item 2",
+    "category": [
+      "Chapter 5 - Top"
+    ],
+    "region": "Chapter 5 - Top",
+    "requires": []
+  },
+  {
+    "name": "Chapter 5 - Top - Item 3",
+    "category": [
+      "Chapter 5 - Top"
+    ],
+    "region": "Chapter 5 - Top",
+    "requires": []
+  },
+  {
+    "name": "Chapter 5 - Top - Item 4",
+    "category": [
+      "Chapter 5 - Top"
+    ],
+    "region": "Chapter 5 - Top",
+    "requires": []
+  },
+  {
+    "name": "Chapter 5 - Bottom - Item 1",
+    "category": [
+      "Chapter 5 - Bottom"
+    ],
+    "region": "Chapter 5 - Bottom",
+    "requires": []
+  },
+  {
+    "name": "Chapter 5 - Bottom - Item 2",
+    "category": [
+      "Chapter 5 - Bottom"
+    ],
+    "region": "Chapter 5 - Bottom",
+    "requires": []
+  },
+  {
+    "name": "Chapter 5 - Bottom - Item 3",
+    "category": [
+      "Chapter 5 - Bottom"
+    ],
+    "region": "Chapter 5 - Bottom",
+    "requires": []
+  },
+  {
+    "name": "Chapter 5 - Bottom - Item 4",
+    "category": [
+      "Chapter 5 - Bottom"
+    ],
+    "region": "Chapter 5 - Bottom",
+    "requires": []
+  },
+  {
+    "name": "Chapter 6 - Top - Item 1",
+    "category": [
+      "Chapter 6 - Top"
+    ],
+    "region": "Chapter 6 - Top",
+    "requires": []
+  },
+  {
+    "name": "Chapter 6 - Top - Item 2",
+    "category": [
+      "Chapter 6 - Top"
+    ],
+    "region": "Chapter 6 - Top",
+    "requires": []
+  },
+  {
+    "name": "Chapter 6 - Top - Item 3",
+    "category": [
+      "Chapter 6 - Top"
+    ],
+    "region": "Chapter 6 - Top",
+    "requires": []
+  },
+  {
+    "name": "Chapter 6 - Top - Item 4",
+    "category": [
+      "Chapter 6 - Top"
+    ],
+    "region": "Chapter 6 - Top",
+    "requires": []
+  },
+  {
+    "name": "Chapter 6 - Bottom - Item 1",
+    "category": [
+      "Chapter 6 - Bottom"
+    ],
+    "region": "Chapter 6 - Bottom",
+    "requires": []
+  },
+  {
+    "name": "Chapter 6 - Bottom - Item 2",
+    "category": [
+      "Chapter 6 - Bottom"
+    ],
+    "region": "Chapter 6 - Bottom",
+    "requires": []
+  },
+  {
+    "name": "Chapter 6 - Bottom - Item 3",
+    "category": [
+      "Chapter 6 - Bottom"
+    ],
+    "region": "Chapter 6 - Bottom",
+    "requires": []
+  },
+  {
+    "name": "Chapter 6 - Bottom - Item 4",
+    "category": [
+      "Chapter 6 - Bottom"
+    ],
+    "region": "Chapter 6 - Bottom",
+    "requires": []
+  },
+  {
+    "name": "Chapter 1 - Item 1",
+    "category": [
+      "Chapter 1"
+    ],
+    "region": "Chapter 1",
+    "requires": []
+  },
+  {
+    "name": "Chapter 1 - Item 2",
+    "category": [
+      "Chapter 1"
+    ],
+    "region": "Chapter 1",
+    "requires": []
+  },
+  {
+    "name": "Chapter 1 - Item 3",
+    "category": [
+      "Chapter 1"
+    ],
+    "region": "Chapter 1",
+    "requires": []
+  },
+  {
+    "name": "Chapter 1 - Item 4",
+    "category": [
+      "Chapter 1"
+    ],
+    "region": "Chapter 1",
+    "requires": []
+  },
+  {
+    "name": "Chapter 4 - Item 1",
+    "category": [
+      "Chapter 4"
+    ],
+    "region": "Chapter 4",
+    "requires": []
+  },
+  {
+    "name": "Chapter 4 - Item 2",
+    "category": [
+      "Chapter 4"
+    ],
+    "region": "Chapter 4",
+    "requires": []
+  },
+  {
+    "name": "Chapter 4 - Item 3",
+    "category": [
+      "Chapter 4"
+    ],
+    "region": "Chapter 4",
+    "requires": []
+  },
+  {
+    "name": "Chapter 4 - Item 4",
+    "category": [
+      "Chapter 4"
+    ],
+    "region": "Chapter 4",
+    "requires": []
+  },
+  {
+    "name": "Victory",
+    "category": [
+      "Win Condition"
+    ],
+    "region": "Chapter 7",
+    "victory": true,
+    "requires": []
+  }
+]

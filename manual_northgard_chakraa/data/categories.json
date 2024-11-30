@@ -1,0 +1,80 @@
+{
+  "Snake DLC": {
+    "yaml_option": [
+      "snake_dlc_enabled"
+    ],
+    "hidden": true
+  },
+  "Dragon DLC": {
+    "yaml_option": [
+      "dragon_dlc_enabled"
+    ],
+    "hidden": true
+  },
+  "Horse DLC": {
+    "yaml_option": [
+      "horse_dlc_enabled"
+    ],
+    "hidden": true
+  },
+  "Kraken DLC": {
+    "yaml_option": [
+      "kraken_dlc_enabled"
+    ],
+    "hidden": true
+  },
+  "Ox DLC": {
+    "yaml_option": [
+      "ox_dlc_enabled"
+    ],
+    "hidden": true
+  },
+  "Lynx DLC": {
+    "yaml_option": [
+      "lynx_dlc_enabled"
+    ],
+    "hidden": true
+  },
+  "Squirrel DLC": {
+    "yaml_option": [
+      "squirrel_dlc_enabled"
+    ],
+    "hidden": true
+  },
+  "Rat DLC": {
+    "yaml_option": [
+      "rat_dlc_enabled"
+    ],
+    "hidden": true
+  },
+  "Eagle DLC": {
+    "yaml_option": [
+      "eagle_dlc_enabled"
+    ],
+    "hidden": true
+  },
+  "Lion DLC": {
+    "yaml_option": [
+      "lion_dlc_enabled"
+    ],
+    "hidden": true
+  },
+  "Stoat DLC": {
+    "yaml_option": [
+      "stoat_dlc_enabled"
+    ],
+    "hidden": true
+  },
+  "Owl DLC": {
+    "yaml_option": [
+      "owl_dlc_enabled"
+    ],
+    "hidden": true
+  },
+  "Hound DLC": {
+    "yaml_option": [
+      "hound_dlc_enabled"
+    ],
+    "hidden": true
+  }
+}
