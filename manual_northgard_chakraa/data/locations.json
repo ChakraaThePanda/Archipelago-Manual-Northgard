@@ -320,9 +320,41 @@
     "requires": []
   },
   {
+    "name": "Chapter 7 - Item 1",
+    "category": [
+      "Chapter 7"
+    ],
+    "region": "Chapter 7",
+    "requires": []
+  },
+  {
+    "name": "Chapter 7 - Item 2",
+    "category": [
+      "Chapter 7"
+    ],
+    "region": "Chapter 7",
+    "requires": []
+  },
+  {
+    "name": "Chapter 7 - Item 3",
+    "category": [
+      "Chapter 7"
+    ],
+    "region": "Chapter 7",
+    "requires": []
+  },
+  {
+    "name": "Chapter 7 - Item 4",
+    "category": [
+      "Chapter 7"
+    ],
+    "region": "Chapter 7",
+    "requires": []
+  },
+  {
     "name": "Victory",
     "category": [
-      "Win Condition"
+      "Chapter 7"
     ],
     "region": "Chapter 7",
     "victory": true,
