@@ -1,19 +1,21 @@
 Manual_Northgard_Chakraa:
     progression_balancing: 50
     accessibility: items
-    snake_dlc_enabled: true
-    dragon_dlc_enabled: true
-    horse_dlc_enabled: true
-    kraken_dlc_enabled: true
-    ox_dlc_enabled: true
-    lynx_dlc_enabled: true
-    squirrel_dlc_enabled: true
-    rat_dlc_enabled: true
-    eagle_dlc_enabled: true
-    lion_dlc_enabled: true
-    stoat_dlc_enabled: true
-    owl_dlc_enabled: true
-    hound_dlc_enabled: true
+    snake_dlc: true
+    dragon_dlc: true
+    horse_dlc: true
+    kraken_dlc: true
+    ox_dlc: true
+    lynx_dlc: true
+    squirrel_dlc: true
+    rat_dlc: true
+    eagle_dlc: true
+    lion_dlc: true
+    stoat_dlc: true
+    owl_dlc: true
+    hound_dlc: true
+    turtle_dlc: true
+    unit_upgrades: true
 
 game: Manual_Northgard_Chakraa
 name: Player{number}

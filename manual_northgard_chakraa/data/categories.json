@@ -1,79 +1,91 @@
 {
   "Snake DLC": {
     "yaml_option": [
-      "snake_dlc_enabled"
+      "snake_dlc"
     ],
     "hidden": true
   },
   "Dragon DLC": {
     "yaml_option": [
-      "dragon_dlc_enabled"
+      "dragon_dlc"
     ],
     "hidden": true
   },
   "Horse DLC": {
     "yaml_option": [
-      "horse_dlc_enabled"
+      "horse_dlc"
     ],
     "hidden": true
   },
   "Kraken DLC": {
     "yaml_option": [
-      "kraken_dlc_enabled"
+      "kraken_dlc"
     ],
     "hidden": true
   },
   "Ox DLC": {
     "yaml_option": [
-      "ox_dlc_enabled"
+      "ox_dlc"
     ],
     "hidden": true
   },
   "Lynx DLC": {
     "yaml_option": [
-      "lynx_dlc_enabled"
+      "lynx_dlc"
     ],
     "hidden": true
   },
   "Squirrel DLC": {
     "yaml_option": [
-      "squirrel_dlc_enabled"
+      "squirrel_dlc"
     ],
     "hidden": true
   },
   "Rat DLC": {
     "yaml_option": [
-      "rat_dlc_enabled"
+      "rat_dlc"
     ],
     "hidden": true
   },
   "Eagle DLC": {
     "yaml_option": [
-      "eagle_dlc_enabled"
+      "eagle_dlc"
     ],
     "hidden": true
   },
   "Lion DLC": {
     "yaml_option": [
-      "lion_dlc_enabled"
+      "lion_dlc"
     ],
     "hidden": true
   },
   "Stoat DLC": {
     "yaml_option": [
-      "stoat_dlc_enabled"
+      "stoat_dlc"
     ],
     "hidden": true
   },
   "Owl DLC": {
     "yaml_option": [
-      "owl_dlc_enabled"
+      "owl_dlc"
     ],
     "hidden": true
   },
   "Hound DLC": {
     "yaml_option": [
-      "hound_dlc_enabled"
+      "hound_dlc"
+    ],
+    "hidden": true
+  },
+  "Turtle DLC": {
+    "yaml_option": [
+      "turtle_dlc"
+    ],
+    "hidden": true
+  },
+  "Unit Upgrades": {
+    "yaml_option": [
+      "unit_upgrades"
     ],
     "hidden": true
   }
