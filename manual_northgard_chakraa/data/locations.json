@@ -352,9 +352,9 @@
     "requires": []
   },
   {
-    "name": "Victory",
+    "name": "Victory - Chapter 7 Completed",
     "category": [
-      "Chapter 7"
+      "Win Condition"
     ],
     "region": "Chapter 7",
     "victory": true,
