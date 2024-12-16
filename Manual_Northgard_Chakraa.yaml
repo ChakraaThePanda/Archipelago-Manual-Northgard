@@ -16,6 +16,7 @@ Manual_Northgard_Chakraa:
     hound_dlc: true
     turtle_dlc: true
     unit_upgrades: true
+    randomize_starting_clan: true
 
 game: Manual_Northgard_Chakraa
 name: Player{number}

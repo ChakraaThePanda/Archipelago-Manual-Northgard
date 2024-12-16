@@ -88,5 +88,11 @@
       "unit_upgrades"
     ],
     "hidden": true
+  },
+  "Randomize Starting Clan": {
+    "yaml_option": [
+      "randomize_starting_clan"
+    ],
+    "hidden": true
   }
 }
