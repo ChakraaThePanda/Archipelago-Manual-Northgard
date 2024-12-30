@@ -1,5 +1,13 @@
 [
   {
+    "name": "Chapter 1",
+    "category": [
+      "Chapters"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
     "name": "Chapter 2 - Top",
     "category": [
       "Chapters"
