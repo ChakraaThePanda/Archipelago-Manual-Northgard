@@ -5,6 +5,7 @@ from BaseClasses import MultiWorld, CollectionState
 # Object classes from Manual -- extending AP core -- representing items and locations that are used in generation
 from ..Items import ManualItem
 from ..Locations import ManualLocation
+from .Options import AmountOfLocations
 
 # Raw JSON data from the Manual apworld, respectively:
 #          data/game.json, data/items.json, data/locations.json, data/regions.json
@@ -15,7 +16,7 @@ from ..Data import game_table, item_table, location_table, region_table
 from ..Helpers import is_option_enabled, get_option_value
 
 # calling logging.info("message") anywhere below in this file will output the message to both console and log file
-import logging
+import logging, re
 
 ########################################################################################
 ## Order of method calls when the world generates:
@@ -43,15 +44,22 @@ def before_create_regions(world: World, multiworld: MultiWorld, player: int):
 # Called after regions and locations are created, in case you want to see or modify that information. Victory location is included.
 def after_create_regions(world: World, multiworld: MultiWorld, player: int):
     # Use this hook to remove locations from the world
-    locationNamesToRemove = [] # List of location names
+    # Get the number of locations limit for the player
+    number_of_locations = get_option_value(multiworld, player, "amount_of_locations")
 
-    # Add your code here to calculate which locations to remove
-
+    # Iterate through all regions in the multiworld
     for region in multiworld.regions:
-        if region.player == player:
-            for location in list(region.locations):
-                if location.name in locationNamesToRemove:
-                    region.locations.remove(location)
+        if region.player == player:  # Only process regions for the current player
+            for location in list(region.locations):  # Copy of the locations list for safe iteration
+                match = re.match(r"Chapter (\d+)(?: - (Top|Bottom))? - Item (\d+)", location.name)
+
+                if match:  # If the location matches any of the expected formats
+                    try:
+                        item_number = int(match.group(3))  # Extract Item Y
+                        if item_number > number_of_locations:  # Compare with the limit
+                            region.locations.remove(location)  # Remove the location
+                    except ValueError:
+                        continue  # If parsing fails, skip this entry
     if hasattr(multiworld, "clear_location_cache"):
         multiworld.clear_location_cache()
 
@@ -69,15 +77,11 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
     # Because multiple copies of an item can exist, you need to add an item name
     # to the list multiple times if you want to remove multiple copies of it.
 
-    for item_check in list(item_pool): # create a copy of the item_pool to iterate through
-        item_table_element = next(i_t for i_t in item_table if i_t['name'] == item_check.name)
-        item_categories = item_table_element.get("category", []) # get the categories for each item
-        if "Clan" in item_categories: # check if the item is one of your clans
-            item_pool.remove(item_check) # if so, remove it from the pool
-            
-    item_pool = world.add_filler_items(item_pool, [])
-    
-    return item_pool # give the modified pool back to the multiworld
+    for itemName in itemNamesToRemove:
+        item = next(i for i in item_pool if i.name == itemName)
+        item_pool.remove(item)
+
+    return item_pool
 
     # Some other useful hook options:
 

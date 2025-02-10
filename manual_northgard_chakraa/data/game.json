@@ -4,12 +4,7 @@
   "creator": "Chakraa",
   "filler_item_name": "Kröwn",
   "starting_items": [
-    {
-      "item_categories": ["Clan"],
-	  "yaml_option": ["randomize_starting_clan"],
-      "random": 1
-    },
-	{
+	  {
       "items": [
         "Chapter 1"
       ]

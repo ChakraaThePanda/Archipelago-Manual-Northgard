@@ -1,15 +1,11 @@
 # Archipelago-Manual-Northgard
- Files required to run the Manual Archipelago for Northgard
+This manual is to be used with the game Northgard, using the Conquest mode.
 
 ## Goal
-* Complete your Conquest map with the random Clan you were given
+* Complete your Conquest map, either solo or in multiplayer.
 ## How to play
-* Select which DLCs you have in the YAML file
-* You will receive 1 Random clan amongst those selected + Base Clans
-* Each Chapters completed in your Conquest map gives you 4 items
+* Each Chapters completed in your Conquest map gives you an amount of items as defined in the YAML.
 * You can only complete the Chapters you have unlocked as items (outside of the first one, this one is free)
-* You can use anything that's not mentioned in the following ``Items you can receive`` list
- * Once you receive one of those items, you can use it
 ## Chapters Explanation
 In every Conquest, the maps will be unlocked the same way:
 * You start with Chapter 1, the big left one

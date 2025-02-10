@@ -1,5 +1,85 @@
 [
   {
+    "name": "Chapter 1 - Item 1",
+    "category": [
+      "Chapter 1"
+    ],
+    "region": "Chapter 1",
+    "requires": []
+  },
+  {
+    "name": "Chapter 1 - Item 2",
+    "category": [
+      "Chapter 1"
+    ],
+    "region": "Chapter 1",
+    "requires": []
+  },
+  {
+    "name": "Chapter 1 - Item 3",
+    "category": [
+      "Chapter 1"
+    ],
+    "region": "Chapter 1",
+    "requires": []
+  },
+  {
+    "name": "Chapter 1 - Item 4",
+    "category": [
+      "Chapter 1"
+    ],
+    "region": "Chapter 1",
+    "requires": []
+  },
+  {
+    "name": "Chapter 1 - Item 5",
+    "category": [
+      "Chapter 1"
+    ],
+    "region": "Chapter 1",
+    "requires": []
+  },
+  {
+    "name": "Chapter 1 - Item 6",
+    "category": [
+      "Chapter 1"
+    ],
+    "region": "Chapter 1",
+    "requires": []
+  },
+  {
+    "name": "Chapter 1 - Item 7",
+    "category": [
+      "Chapter 1"
+    ],
+    "region": "Chapter 1",
+    "requires": []
+  },
+  {
+    "name": "Chapter 1 - Item 8",
+    "category": [
+      "Chapter 1"
+    ],
+    "region": "Chapter 1",
+    "requires": []
+  },
+  {
+    "name": "Chapter 1 - Item 9",
+    "category": [
+      "Chapter 1"
+    ],
+    "region": "Chapter 1",
+    "requires": []
+  },
+  {
+    "name": "Chapter 1 - Item 10",
+    "category": [
+      "Chapter 1"
+    ],
+    "region": "Chapter 1",
+    "requires": []
+  },
+  {
     "name": "Chapter 2 - Top - Item 1",
     "category": [
       "Chapter 2 - Top"
@@ -25,6 +105,54 @@
   },
   {
     "name": "Chapter 2 - Top - Item 4",
+    "category": [
+      "Chapter 2 - Top"
+    ],
+    "region": "Chapter 2 - Top",
+    "requires": []
+  },
+  {
+    "name": "Chapter 2 - Top - Item 5",
+    "category": [
+      "Chapter 2 - Top"
+    ],
+    "region": "Chapter 2 - Top",
+    "requires": []
+  },
+  {
+    "name": "Chapter 2 - Top - Item 6",
+    "category": [
+      "Chapter 2 - Top"
+    ],
+    "region": "Chapter 2 - Top",
+    "requires": []
+  },
+  {
+    "name": "Chapter 2 - Top - Item 7",
+    "category": [
+      "Chapter 2 - Top"
+    ],
+    "region": "Chapter 2 - Top",
+    "requires": []
+  },
+  {
+    "name": "Chapter 2 - Top - Item 8",
+    "category": [
+      "Chapter 2 - Top"
+    ],
+    "region": "Chapter 2 - Top",
+    "requires": []
+  },
+  {
+    "name": "Chapter 2 - Top - Item 9",
+    "category": [
+      "Chapter 2 - Top"
+    ],
+    "region": "Chapter 2 - Top",
+    "requires": []
+  },
+  {
+    "name": "Chapter 2 - Top - Item 10",
     "category": [
       "Chapter 2 - Top"
     ],
@@ -64,6 +192,54 @@
     "requires": []
   },
   {
+    "name": "Chapter 2 - Bottom - Item 5",
+    "category": [
+      "Chapter 2 - Bottom"
+    ],
+    "region": "Chapter 2 - Bottom",
+    "requires": []
+  },
+  {
+    "name": "Chapter 2 - Bottom - Item 6",
+    "category": [
+      "Chapter 2 - Bottom"
+    ],
+    "region": "Chapter 2 - Bottom",
+    "requires": []
+  },
+  {
+    "name": "Chapter 2 - Bottom - Item 7",
+    "category": [
+      "Chapter 2 - Bottom"
+    ],
+    "region": "Chapter 2 - Bottom",
+    "requires": []
+  },
+  {
+    "name": "Chapter 2 - Bottom - Item 8",
+    "category": [
+      "Chapter 2 - Bottom"
+    ],
+    "region": "Chapter 2 - Bottom",
+    "requires": []
+  },
+  {
+    "name": "Chapter 2 - Bottom - Item 9",
+    "category": [
+      "Chapter 2 - Bottom"
+    ],
+    "region": "Chapter 2 - Bottom",
+    "requires": []
+  },
+  {
+    "name": "Chapter 2 - Bottom - Item 10",
+    "category": [
+      "Chapter 2 - Bottom"
+    ],
+    "region": "Chapter 2 - Bottom",
+    "requires": []
+  },
+  {
     "name": "Chapter 3 - Top - Item 1",
     "category": [
       "Chapter 3 - Top"
@@ -89,6 +265,54 @@
   },
   {
     "name": "Chapter 3 - Top - Item 4",
+    "category": [
+      "Chapter 3 - Top"
+    ],
+    "region": "Chapter 3 - Top",
+    "requires": []
+  },
+  {
+    "name": "Chapter 3 - Top - Item 5",
+    "category": [
+      "Chapter 3 - Top"
+    ],
+    "region": "Chapter 3 - Top",
+    "requires": []
+  },
+  {
+    "name": "Chapter 3 - Top - Item 6",
+    "category": [
+      "Chapter 3 - Top"
+    ],
+    "region": "Chapter 3 - Top",
+    "requires": []
+  },
+  {
+    "name": "Chapter 3 - Top - Item 7",
+    "category": [
+      "Chapter 3 - Top"
+    ],
+    "region": "Chapter 3 - Top",
+    "requires": []
+  },
+  {
+    "name": "Chapter 3 - Top - Item 8",
+    "category": [
+      "Chapter 3 - Top"
+    ],
+    "region": "Chapter 3 - Top",
+    "requires": []
+  },
+  {
+    "name": "Chapter 3 - Top - Item 9",
+    "category": [
+      "Chapter 3 - Top"
+    ],
+    "region": "Chapter 3 - Top",
+    "requires": []
+  },
+  {
+    "name": "Chapter 3 - Top - Item 10",
     "category": [
       "Chapter 3 - Top"
     ],
@@ -128,6 +352,134 @@
     "requires": []
   },
   {
+    "name": "Chapter 3 - Bottom - Item 5",
+    "category": [
+      "Chapter 3 - Bottom"
+    ],
+    "region": "Chapter 3 - Bottom",
+    "requires": []
+  },
+  {
+    "name": "Chapter 3 - Bottom - Item 6",
+    "category": [
+      "Chapter 3 - Bottom"
+    ],
+    "region": "Chapter 3 - Bottom",
+    "requires": []
+  },
+  {
+    "name": "Chapter 3 - Bottom - Item 7",
+    "category": [
+      "Chapter 3 - Bottom"
+    ],
+    "region": "Chapter 3 - Bottom",
+    "requires": []
+  },
+  {
+    "name": "Chapter 3 - Bottom - Item 8",
+    "category": [
+      "Chapter 3 - Bottom"
+    ],
+    "region": "Chapter 3 - Bottom",
+    "requires": []
+  },
+  {
+    "name": "Chapter 3 - Bottom - Item 9",
+    "category": [
+      "Chapter 3 - Bottom"
+    ],
+    "region": "Chapter 3 - Bottom",
+    "requires": []
+  },
+  {
+    "name": "Chapter 3 - Bottom - Item 10",
+    "category": [
+      "Chapter 3 - Bottom"
+    ],
+    "region": "Chapter 3 - Bottom",
+    "requires": []
+  },
+  {
+    "name": "Chapter 4 - Item 1",
+    "category": [
+      "Chapter 4"
+    ],
+    "region": "Chapter 4",
+    "requires": []
+  },
+  {
+    "name": "Chapter 4 - Item 2",
+    "category": [
+      "Chapter 4"
+    ],
+    "region": "Chapter 4",
+    "requires": []
+  },
+  {
+    "name": "Chapter 4 - Item 3",
+    "category": [
+      "Chapter 4"
+    ],
+    "region": "Chapter 4",
+    "requires": []
+  },
+  {
+    "name": "Chapter 4 - Item 4",
+    "category": [
+      "Chapter 4"
+    ],
+    "region": "Chapter 4",
+    "requires": []
+  },
+  {
+    "name": "Chapter 4 - Item 5",
+    "category": [
+      "Chapter 4"
+    ],
+    "region": "Chapter 4",
+    "requires": []
+  },
+  {
+    "name": "Chapter 4 - Item 6",
+    "category": [
+      "Chapter 4"
+    ],
+    "region": "Chapter 4",
+    "requires": []
+  },
+  {
+    "name": "Chapter 4 - Item 7",
+    "category": [
+      "Chapter 4"
+    ],
+    "region": "Chapter 4",
+    "requires": []
+  },
+  {
+    "name": "Chapter 4 - Item 8",
+    "category": [
+      "Chapter 4"
+    ],
+    "region": "Chapter 4",
+    "requires": []
+  },
+  {
+    "name": "Chapter 4 - Item 9",
+    "category": [
+      "Chapter 4"
+    ],
+    "region": "Chapter 4",
+    "requires": []
+  },
+  {
+    "name": "Chapter 4 - Item 10",
+    "category": [
+      "Chapter 4"
+    ],
+    "region": "Chapter 4",
+    "requires": []
+  },
+  {
     "name": "Chapter 5 - Top - Item 1",
     "category": [
       "Chapter 5 - Top"
@@ -153,6 +505,54 @@
   },
   {
     "name": "Chapter 5 - Top - Item 4",
+    "category": [
+      "Chapter 5 - Top"
+    ],
+    "region": "Chapter 5 - Top",
+    "requires": []
+  },
+  {
+    "name": "Chapter 5 - Top - Item 5",
+    "category": [
+      "Chapter 5 - Top"
+    ],
+    "region": "Chapter 5 - Top",
+    "requires": []
+  },
+  {
+    "name": "Chapter 5 - Top - Item 6",
+    "category": [
+      "Chapter 5 - Top"
+    ],
+    "region": "Chapter 5 - Top",
+    "requires": []
+  },
+  {
+    "name": "Chapter 5 - Top - Item 7",
+    "category": [
+      "Chapter 5 - Top"
+    ],
+    "region": "Chapter 5 - Top",
+    "requires": []
+  },
+  {
+    "name": "Chapter 5 - Top - Item 8",
+    "category": [
+      "Chapter 5 - Top"
+    ],
+    "region": "Chapter 5 - Top",
+    "requires": []
+  },
+  {
+    "name": "Chapter 5 - Top - Item 9",
+    "category": [
+      "Chapter 5 - Top"
+    ],
+    "region": "Chapter 5 - Top",
+    "requires": []
+  },
+  {
+    "name": "Chapter 5 - Top - Item 10",
     "category": [
       "Chapter 5 - Top"
     ],
@@ -192,6 +592,54 @@
     "requires": []
   },
   {
+    "name": "Chapter 5 - Bottom - Item 5",
+    "category": [
+      "Chapter 5 - Bottom"
+    ],
+    "region": "Chapter 5 - Bottom",
+    "requires": []
+  },
+  {
+    "name": "Chapter 5 - Bottom - Item 6",
+    "category": [
+      "Chapter 5 - Bottom"
+    ],
+    "region": "Chapter 5 - Bottom",
+    "requires": []
+  },
+  {
+    "name": "Chapter 5 - Bottom - Item 7",
+    "category": [
+      "Chapter 5 - Bottom"
+    ],
+    "region": "Chapter 5 - Bottom",
+    "requires": []
+  },
+  {
+    "name": "Chapter 5 - Bottom - Item 8",
+    "category": [
+      "Chapter 5 - Bottom"
+    ],
+    "region": "Chapter 5 - Bottom",
+    "requires": []
+  },
+  {
+    "name": "Chapter 5 - Bottom - Item 9",
+    "category": [
+      "Chapter 5 - Bottom"
+    ],
+    "region": "Chapter 5 - Bottom",
+    "requires": []
+  },
+  {
+    "name": "Chapter 5 - Bottom - Item 10",
+    "category": [
+      "Chapter 5 - Bottom"
+    ],
+    "region": "Chapter 5 - Bottom",
+    "requires": []
+  },
+  {
     "name": "Chapter 6 - Top - Item 1",
     "category": [
       "Chapter 6 - Top"
@@ -217,6 +665,54 @@
   },
   {
     "name": "Chapter 6 - Top - Item 4",
+    "category": [
+      "Chapter 6 - Top"
+    ],
+    "region": "Chapter 6 - Top",
+    "requires": []
+  },
+  {
+    "name": "Chapter 6 - Top - Item 5",
+    "category": [
+      "Chapter 6 - Top"
+    ],
+    "region": "Chapter 6 - Top",
+    "requires": []
+  },
+  {
+    "name": "Chapter 6 - Top - Item 6",
+    "category": [
+      "Chapter 6 - Top"
+    ],
+    "region": "Chapter 6 - Top",
+    "requires": []
+  },
+  {
+    "name": "Chapter 6 - Top - Item 7",
+    "category": [
+      "Chapter 6 - Top"
+    ],
+    "region": "Chapter 6 - Top",
+    "requires": []
+  },
+  {
+    "name": "Chapter 6 - Top - Item 8",
+    "category": [
+      "Chapter 6 - Top"
+    ],
+    "region": "Chapter 6 - Top",
+    "requires": []
+  },
+  {
+    "name": "Chapter 6 - Top - Item 9",
+    "category": [
+      "Chapter 6 - Top"
+    ],
+    "region": "Chapter 6 - Top",
+    "requires": []
+  },
+  {
+    "name": "Chapter 6 - Top - Item 10",
     "category": [
       "Chapter 6 - Top"
     ],
@@ -256,67 +752,51 @@
     "requires": []
   },
   {
-    "name": "Chapter 1 - Item 1",
+    "name": "Chapter 6 - Bottom - Item 5",
     "category": [
-      "Chapter 1"
+      "Chapter 6 - Bottom"
     ],
-    "region": "Chapter 1",
+    "region": "Chapter 6 - Bottom",
     "requires": []
   },
   {
-    "name": "Chapter 1 - Item 2",
+    "name": "Chapter 6 - Bottom - Item 6",
     "category": [
-      "Chapter 1"
+      "Chapter 6 - Bottom"
     ],
-    "region": "Chapter 1",
+    "region": "Chapter 6 - Bottom",
     "requires": []
   },
   {
-    "name": "Chapter 1 - Item 3",
+    "name": "Chapter 6 - Bottom - Item 7",
     "category": [
-      "Chapter 1"
+      "Chapter 6 - Bottom"
     ],
-    "region": "Chapter 1",
+    "region": "Chapter 6 - Bottom",
     "requires": []
   },
   {
-    "name": "Chapter 1 - Item 4",
+    "name": "Chapter 6 - Bottom - Item 8",
     "category": [
-      "Chapter 1"
+      "Chapter 6 - Bottom"
     ],
-    "region": "Chapter 1",
+    "region": "Chapter 6 - Bottom",
     "requires": []
   },
   {
-    "name": "Chapter 4 - Item 1",
+    "name": "Chapter 6 - Bottom - Item 9",
     "category": [
-      "Chapter 4"
+      "Chapter 6 - Bottom"
     ],
-    "region": "Chapter 4",
+    "region": "Chapter 6 - Bottom",
     "requires": []
   },
   {
-    "name": "Chapter 4 - Item 2",
+    "name": "Chapter 6 - Bottom - Item 10",
     "category": [
-      "Chapter 4"
+      "Chapter 6 - Bottom"
     ],
-    "region": "Chapter 4",
-    "requires": []
-  },
-  {
-    "name": "Chapter 4 - Item 3",
-    "category": [
-      "Chapter 4"
-    ],
-    "region": "Chapter 4",
-    "requires": []
-  },
-  {
-    "name": "Chapter 4 - Item 4",
-    "category": [
-      "Chapter 4"
-    ],
-    "region": "Chapter 4",
+    "region": "Chapter 6 - Bottom",
     "requires": []
   },
   {
@@ -345,6 +825,54 @@
   },
   {
     "name": "Chapter 7 - Item 4",
+    "category": [
+      "Chapter 7"
+    ],
+    "region": "Chapter 7",
+    "requires": []
+  },
+  {
+    "name": "Chapter 7 - Item 5",
+    "category": [
+      "Chapter 7"
+    ],
+    "region": "Chapter 7",
+    "requires": []
+  },
+  {
+    "name": "Chapter 7 - Item 6",
+    "category": [
+      "Chapter 7"
+    ],
+    "region": "Chapter 7",
+    "requires": []
+  },
+  {
+    "name": "Chapter 7 - Item 7",
+    "category": [
+      "Chapter 7"
+    ],
+    "region": "Chapter 7",
+    "requires": []
+  },
+  {
+    "name": "Chapter 7 - Item 8",
+    "category": [
+      "Chapter 7"
+    ],
+    "region": "Chapter 7",
+    "requires": []
+  },
+  {
+    "name": "Chapter 7 - Item 9",
+    "category": [
+      "Chapter 7"
+    ],
+    "region": "Chapter 7",
+    "requires": []
+  },
+  {
+    "name": "Chapter 7 - Item 10",
     "category": [
       "Chapter 7"
     ],
