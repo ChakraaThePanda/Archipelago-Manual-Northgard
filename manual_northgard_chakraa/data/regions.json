@@ -1,73 +1,73 @@
 {
-  "Chapter 1": {
+  "Chapter 01": {
     "starting": true,
     "connects_to": [
-      "Chapter 2 - Top",
-      "Chapter 2 - Bottom"
+      "Chapter 02 - Top",
+      "Chapter 02 - Bottom"
     ],
-    "requires": "|Chapter 1:1|"
+    "requires": "|Chapter 01:1|"
   },
-  "Chapter 2 - Top": {
+  "Chapter 02 - Top": {
     "connects_to": [
-      "Chapter 3 - Top",
-      "Chapter 3 - Bottom"
+      "Chapter 03 - Top",
+      "Chapter 03 - Bottom"
     ],
-    "requires": "|Chapter 2 - Top:1|"
+    "requires": "|Chapter 02 - Top:1|"
   },
-  "Chapter 2 - Bottom": {
+  "Chapter 02 - Bottom": {
     "connects_to": [
-      "Chapter 3 - Top",
-      "Chapter 3 - Bottom"
+      "Chapter 03 - Top",
+      "Chapter 03 - Bottom"
     ],
-    "requires": "|Chapter 2 - Bottom:1|"
+    "requires": "|Chapter 02 - Bottom:1|"
   },
-  "Chapter 3 - Top": {
+  "Chapter 03 - Top": {
     "connects_to": [
-      "Chapter 4"
+      "Chapter 04"
     ],
-    "requires": "|Chapter 3 - Top:1|"
+    "requires": "|Chapter 03 - Top:1|"
   },
-  "Chapter 3 - Bottom": {
+  "Chapter 03 - Bottom": {
     "connects_to": [
-      "Chapter 4"
+      "Chapter 04"
     ],
-    "requires": "|Chapter 3 - Bottom:1|"
+    "requires": "|Chapter 03 - Bottom:1|"
   },
-  "Chapter 4": {
+  "Chapter 04": {
     "connects_to": [
-      "Chapter 5 - Top",
-      "Chapter 5 - Bottom"
+      "Chapter 05 - Top",
+      "Chapter 05 - Bottom"
     ],
-    "requires": "|Chapter 4:1|"
+    "requires": "|Chapter 04:1|"
   },
-  "Chapter 5 - Top": {
+  "Chapter 05 - Top": {
     "connects_to": [
-      "Chapter 6 - Top",
-      "Chapter 6 - Bottom"
+      "Chapter 06 - Top",
+      "Chapter 06 - Bottom"
     ],
-    "requires": "|Chapter 5 - Top:1|"
+    "requires": "|Chapter 05 - Top:1|"
   },
-  "Chapter 5 - Bottom": {
+  "Chapter 05 - Bottom": {
     "connects_to": [
-      "Chapter 6 - Top",
-      "Chapter 6 - Bottom"
+      "Chapter 06 - Top",
+      "Chapter 06 - Bottom"
     ],
-    "requires": "|Chapter 5 - Bottom:1|"
+    "requires": "|Chapter 05 - Bottom:1|"
   },
-  "Chapter 6 - Top": {
+  "Chapter 06 - Top": {
     "connects_to": [
-      "Chapter 7"
+      "Chapter 07"
     ],
-    "requires": "|Chapter 6 - Top:1|"
+    "requires": "|Chapter 06 - Top:1|"
   },
-  "Chapter 6 - Bottom": {
+  "Chapter 06 - Bottom": {
     "connects_to": [
-      "Chapter 7"
+      "Chapter 07"
     ],
-    "requires": "|Chapter 6 - Bottom:1|"
+    "requires": "|Chapter 06 - Bottom:1|"
   },
-  "Chapter 7": {
+  "Chapter 07": {
     "connects_to": [],
-    "requires": "|Chapter 7:1|"
+    "requires": "|Chapter 07:1|"
   }
 }

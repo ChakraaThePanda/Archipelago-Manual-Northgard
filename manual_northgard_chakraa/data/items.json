@@ -1,6 +1,6 @@
 [
   {
-    "name": "Chapter 1",
+    "name": "Chapter 01",
     "category": [
       "Chapters"
     ],
@@ -8,7 +8,7 @@
     "progression": true
   },
   {
-    "name": "Chapter 2 - Top",
+    "name": "Chapter 02 - Top",
     "category": [
       "Chapters"
     ],
@@ -16,7 +16,7 @@
     "progression": true
   },
   {
-    "name": "Chapter 2 - Bottom",
+    "name": "Chapter 02 - Bottom",
     "category": [
       "Chapters"
     ],
@@ -24,7 +24,7 @@
     "progression": true
   },
   {
-    "name": "Chapter 3 - Top",
+    "name": "Chapter 03 - Top",
     "category": [
       "Chapters"
     ],
@@ -32,7 +32,7 @@
     "progression": true
   },
   {
-    "name": "Chapter 3 - Bottom",
+    "name": "Chapter 03 - Bottom",
     "category": [
       "Chapters"
     ],
@@ -40,7 +40,7 @@
     "progression": true
   },
   {
-    "name": "Chapter 4",
+    "name": "Chapter 04",
     "category": [
       "Chapters"
     ],
@@ -48,7 +48,7 @@
     "progression": true
   },
   {
-    "name": "Chapter 5 - Top",
+    "name": "Chapter 05 - Top",
     "category": [
       "Chapters"
     ],
@@ -56,7 +56,7 @@
     "progression": true
   },
   {
-    "name": "Chapter 5 - Bottom",
+    "name": "Chapter 05 - Bottom",
     "category": [
       "Chapters"
     ],
@@ -64,7 +64,7 @@
     "progression": true
   },
   {
-    "name": "Chapter 6 - Top",
+    "name": "Chapter 06 - Top",
     "category": [
       "Chapters"
     ],
@@ -72,7 +72,7 @@
     "progression": true
   },
   {
-    "name": "Chapter 6 - Bottom",
+    "name": "Chapter 06 - Bottom",
     "category": [
       "Chapters"
     ],
@@ -80,7 +80,7 @@
     "progression": true
   },
   {
-    "name": "Chapter 7",
+    "name": "Chapter 07",
     "category": [
       "Chapters"
     ],

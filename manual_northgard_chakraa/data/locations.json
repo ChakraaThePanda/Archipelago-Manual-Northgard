@@ -1,890 +1,890 @@
 [
   {
-    "name": "Chapter 1 - Item 1",
+    "name": "Chapter 01 - Item 01",
     "category": [
-      "Chapter 1"
+      "Chapter 01"
     ],
-    "region": "Chapter 1",
+    "region": "Chapter 01",
     "requires": []
   },
   {
-    "name": "Chapter 1 - Item 2",
+    "name": "Chapter 01 - Item 02",
     "category": [
-      "Chapter 1"
+      "Chapter 01"
     ],
-    "region": "Chapter 1",
+    "region": "Chapter 01",
     "requires": []
   },
   {
-    "name": "Chapter 1 - Item 3",
+    "name": "Chapter 01 - Item 03",
     "category": [
-      "Chapter 1"
+      "Chapter 01"
     ],
-    "region": "Chapter 1",
+    "region": "Chapter 01",
     "requires": []
   },
   {
-    "name": "Chapter 1 - Item 4",
+    "name": "Chapter 01 - Item 04",
     "category": [
-      "Chapter 1"
+      "Chapter 01"
     ],
-    "region": "Chapter 1",
+    "region": "Chapter 01",
     "requires": []
   },
   {
-    "name": "Chapter 1 - Item 5",
+    "name": "Chapter 01 - Item 05",
     "category": [
-      "Chapter 1"
+      "Chapter 01"
     ],
-    "region": "Chapter 1",
+    "region": "Chapter 01",
     "requires": []
   },
   {
-    "name": "Chapter 1 - Item 6",
+    "name": "Chapter 01 - Item 06",
     "category": [
-      "Chapter 1"
+      "Chapter 01"
     ],
-    "region": "Chapter 1",
+    "region": "Chapter 01",
     "requires": []
   },
   {
-    "name": "Chapter 1 - Item 7",
+    "name": "Chapter 01 - Item 07",
     "category": [
-      "Chapter 1"
+      "Chapter 01"
     ],
-    "region": "Chapter 1",
+    "region": "Chapter 01",
     "requires": []
   },
   {
-    "name": "Chapter 1 - Item 8",
+    "name": "Chapter 01 - Item 08",
     "category": [
-      "Chapter 1"
+      "Chapter 01"
     ],
-    "region": "Chapter 1",
+    "region": "Chapter 01",
     "requires": []
   },
   {
-    "name": "Chapter 1 - Item 9",
+    "name": "Chapter 01 - Item 09",
     "category": [
-      "Chapter 1"
+      "Chapter 01"
     ],
-    "region": "Chapter 1",
+    "region": "Chapter 01",
     "requires": []
   },
   {
-    "name": "Chapter 1 - Item 10",
+    "name": "Chapter 01 - Item 10",
     "category": [
-      "Chapter 1"
+      "Chapter 01"
     ],
-    "region": "Chapter 1",
+    "region": "Chapter 01",
     "requires": []
   },
   {
-    "name": "Chapter 2 - Top - Item 1",
+    "name": "Chapter 02 - Top - Item 01",
     "category": [
-      "Chapter 2 - Top"
+      "Chapter 02 - Top"
     ],
-    "region": "Chapter 2 - Top",
+    "region": "Chapter 02 - Top",
     "requires": []
   },
   {
-    "name": "Chapter 2 - Top - Item 2",
+    "name": "Chapter 02 - Top - Item 02",
     "category": [
-      "Chapter 2 - Top"
+      "Chapter 02 - Top"
     ],
-    "region": "Chapter 2 - Top",
+    "region": "Chapter 02 - Top",
     "requires": []
   },
   {
-    "name": "Chapter 2 - Top - Item 3",
+    "name": "Chapter 02 - Top - Item 03",
     "category": [
-      "Chapter 2 - Top"
+      "Chapter 02 - Top"
     ],
-    "region": "Chapter 2 - Top",
+    "region": "Chapter 02 - Top",
     "requires": []
   },
   {
-    "name": "Chapter 2 - Top - Item 4",
+    "name": "Chapter 02 - Top - Item 04",
     "category": [
-      "Chapter 2 - Top"
+      "Chapter 02 - Top"
     ],
-    "region": "Chapter 2 - Top",
+    "region": "Chapter 02 - Top",
     "requires": []
   },
   {
-    "name": "Chapter 2 - Top - Item 5",
+    "name": "Chapter 02 - Top - Item 05",
     "category": [
-      "Chapter 2 - Top"
+      "Chapter 02 - Top"
     ],
-    "region": "Chapter 2 - Top",
+    "region": "Chapter 02 - Top",
     "requires": []
   },
   {
-    "name": "Chapter 2 - Top - Item 6",
+    "name": "Chapter 02 - Top - Item 06",
     "category": [
-      "Chapter 2 - Top"
+      "Chapter 02 - Top"
     ],
-    "region": "Chapter 2 - Top",
+    "region": "Chapter 02 - Top",
     "requires": []
   },
   {
-    "name": "Chapter 2 - Top - Item 7",
+    "name": "Chapter 02 - Top - Item 07",
     "category": [
-      "Chapter 2 - Top"
+      "Chapter 02 - Top"
     ],
-    "region": "Chapter 2 - Top",
+    "region": "Chapter 02 - Top",
     "requires": []
   },
   {
-    "name": "Chapter 2 - Top - Item 8",
+    "name": "Chapter 02 - Top - Item 08",
     "category": [
-      "Chapter 2 - Top"
+      "Chapter 02 - Top"
     ],
-    "region": "Chapter 2 - Top",
+    "region": "Chapter 02 - Top",
     "requires": []
   },
   {
-    "name": "Chapter 2 - Top - Item 9",
+    "name": "Chapter 02 - Top - Item 09",
     "category": [
-      "Chapter 2 - Top"
+      "Chapter 02 - Top"
     ],
-    "region": "Chapter 2 - Top",
+    "region": "Chapter 02 - Top",
     "requires": []
   },
   {
-    "name": "Chapter 2 - Top - Item 10",
+    "name": "Chapter 02 - Top - Item 10",
     "category": [
-      "Chapter 2 - Top"
+      "Chapter 02 - Top"
     ],
-    "region": "Chapter 2 - Top",
+    "region": "Chapter 02 - Top",
     "requires": []
   },
   {
-    "name": "Chapter 2 - Bottom - Item 1",
+    "name": "Chapter 02 - Bottom - Item 01",
     "category": [
-      "Chapter 2 - Bottom"
+      "Chapter 02 - Bottom"
     ],
-    "region": "Chapter 2 - Bottom",
+    "region": "Chapter 02 - Bottom",
     "requires": []
   },
   {
-    "name": "Chapter 2 - Bottom - Item 2",
+    "name": "Chapter 02 - Bottom - Item 02",
     "category": [
-      "Chapter 2 - Bottom"
+      "Chapter 02 - Bottom"
     ],
-    "region": "Chapter 2 - Bottom",
+    "region": "Chapter 02 - Bottom",
     "requires": []
   },
   {
-    "name": "Chapter 2 - Bottom - Item 3",
+    "name": "Chapter 02 - Bottom - Item 03",
     "category": [
-      "Chapter 2 - Bottom"
+      "Chapter 02 - Bottom"
     ],
-    "region": "Chapter 2 - Bottom",
+    "region": "Chapter 02 - Bottom",
     "requires": []
   },
   {
-    "name": "Chapter 2 - Bottom - Item 4",
+    "name": "Chapter 02 - Bottom - Item 04",
     "category": [
-      "Chapter 2 - Bottom"
+      "Chapter 02 - Bottom"
     ],
-    "region": "Chapter 2 - Bottom",
+    "region": "Chapter 02 - Bottom",
     "requires": []
   },
   {
-    "name": "Chapter 2 - Bottom - Item 5",
+    "name": "Chapter 02 - Bottom - Item 05",
     "category": [
-      "Chapter 2 - Bottom"
+      "Chapter 02 - Bottom"
     ],
-    "region": "Chapter 2 - Bottom",
+    "region": "Chapter 02 - Bottom",
     "requires": []
   },
   {
-    "name": "Chapter 2 - Bottom - Item 6",
+    "name": "Chapter 02 - Bottom - Item 06",
     "category": [
-      "Chapter 2 - Bottom"
+      "Chapter 02 - Bottom"
     ],
-    "region": "Chapter 2 - Bottom",
+    "region": "Chapter 02 - Bottom",
     "requires": []
   },
   {
-    "name": "Chapter 2 - Bottom - Item 7",
+    "name": "Chapter 02 - Bottom - Item 07",
     "category": [
-      "Chapter 2 - Bottom"
+      "Chapter 02 - Bottom"
     ],
-    "region": "Chapter 2 - Bottom",
+    "region": "Chapter 02 - Bottom",
     "requires": []
   },
   {
-    "name": "Chapter 2 - Bottom - Item 8",
+    "name": "Chapter 02 - Bottom - Item 08",
     "category": [
-      "Chapter 2 - Bottom"
+      "Chapter 02 - Bottom"
     ],
-    "region": "Chapter 2 - Bottom",
+    "region": "Chapter 02 - Bottom",
     "requires": []
   },
   {
-    "name": "Chapter 2 - Bottom - Item 9",
+    "name": "Chapter 02 - Bottom - Item 09",
     "category": [
-      "Chapter 2 - Bottom"
+      "Chapter 02 - Bottom"
     ],
-    "region": "Chapter 2 - Bottom",
+    "region": "Chapter 02 - Bottom",
     "requires": []
   },
   {
-    "name": "Chapter 2 - Bottom - Item 10",
+    "name": "Chapter 02 - Bottom - Item 10",
     "category": [
-      "Chapter 2 - Bottom"
+      "Chapter 02 - Bottom"
     ],
-    "region": "Chapter 2 - Bottom",
+    "region": "Chapter 02 - Bottom",
     "requires": []
   },
   {
-    "name": "Chapter 3 - Top - Item 1",
+    "name": "Chapter 03 - Top - Item 01",
     "category": [
-      "Chapter 3 - Top"
+      "Chapter 03 - Top"
     ],
-    "region": "Chapter 3 - Top",
+    "region": "Chapter 03 - Top",
     "requires": []
   },
   {
-    "name": "Chapter 3 - Top - Item 2",
+    "name": "Chapter 03 - Top - Item 02",
     "category": [
-      "Chapter 3 - Top"
+      "Chapter 03 - Top"
     ],
-    "region": "Chapter 3 - Top",
+    "region": "Chapter 03 - Top",
     "requires": []
   },
   {
-    "name": "Chapter 3 - Top - Item 3",
+    "name": "Chapter 03 - Top - Item 03",
     "category": [
-      "Chapter 3 - Top"
+      "Chapter 03 - Top"
     ],
-    "region": "Chapter 3 - Top",
+    "region": "Chapter 03 - Top",
     "requires": []
   },
   {
-    "name": "Chapter 3 - Top - Item 4",
+    "name": "Chapter 03 - Top - Item 04",
     "category": [
-      "Chapter 3 - Top"
+      "Chapter 03 - Top"
     ],
-    "region": "Chapter 3 - Top",
+    "region": "Chapter 03 - Top",
     "requires": []
   },
   {
-    "name": "Chapter 3 - Top - Item 5",
+    "name": "Chapter 03 - Top - Item 05",
     "category": [
-      "Chapter 3 - Top"
+      "Chapter 03 - Top"
     ],
-    "region": "Chapter 3 - Top",
+    "region": "Chapter 03 - Top",
     "requires": []
   },
   {
-    "name": "Chapter 3 - Top - Item 6",
+    "name": "Chapter 03 - Top - Item 06",
     "category": [
-      "Chapter 3 - Top"
+      "Chapter 03 - Top"
     ],
-    "region": "Chapter 3 - Top",
+    "region": "Chapter 03 - Top",
     "requires": []
   },
   {
-    "name": "Chapter 3 - Top - Item 7",
+    "name": "Chapter 03 - Top - Item 07",
     "category": [
-      "Chapter 3 - Top"
+      "Chapter 03 - Top"
     ],
-    "region": "Chapter 3 - Top",
+    "region": "Chapter 03 - Top",
     "requires": []
   },
   {
-    "name": "Chapter 3 - Top - Item 8",
+    "name": "Chapter 03 - Top - Item 08",
     "category": [
-      "Chapter 3 - Top"
+      "Chapter 03 - Top"
     ],
-    "region": "Chapter 3 - Top",
+    "region": "Chapter 03 - Top",
     "requires": []
   },
   {
-    "name": "Chapter 3 - Top - Item 9",
+    "name": "Chapter 03 - Top - Item 09",
     "category": [
-      "Chapter 3 - Top"
+      "Chapter 03 - Top"
     ],
-    "region": "Chapter 3 - Top",
+    "region": "Chapter 03 - Top",
     "requires": []
   },
   {
-    "name": "Chapter 3 - Top - Item 10",
+    "name": "Chapter 03 - Top - Item 10",
     "category": [
-      "Chapter 3 - Top"
+      "Chapter 03 - Top"
     ],
-    "region": "Chapter 3 - Top",
+    "region": "Chapter 03 - Top",
     "requires": []
   },
   {
-    "name": "Chapter 3 - Bottom - Item 1",
+    "name": "Chapter 03 - Bottom - Item 01",
     "category": [
-      "Chapter 3 - Bottom"
+      "Chapter 03 - Bottom"
     ],
-    "region": "Chapter 3 - Bottom",
+    "region": "Chapter 03 - Bottom",
     "requires": []
   },
   {
-    "name": "Chapter 3 - Bottom - Item 2",
+    "name": "Chapter 03 - Bottom - Item 02",
     "category": [
-      "Chapter 3 - Bottom"
+      "Chapter 03 - Bottom"
     ],
-    "region": "Chapter 3 - Bottom",
+    "region": "Chapter 03 - Bottom",
     "requires": []
   },
   {
-    "name": "Chapter 3 - Bottom - Item 3",
+    "name": "Chapter 03 - Bottom - Item 03",
     "category": [
-      "Chapter 3 - Bottom"
+      "Chapter 03 - Bottom"
     ],
-    "region": "Chapter 3 - Bottom",
+    "region": "Chapter 03 - Bottom",
     "requires": []
   },
   {
-    "name": "Chapter 3 - Bottom - Item 4",
+    "name": "Chapter 03 - Bottom - Item 04",
     "category": [
-      "Chapter 3 - Bottom"
+      "Chapter 03 - Bottom"
     ],
-    "region": "Chapter 3 - Bottom",
+    "region": "Chapter 03 - Bottom",
     "requires": []
   },
   {
-    "name": "Chapter 3 - Bottom - Item 5",
+    "name": "Chapter 03 - Bottom - Item 05",
     "category": [
-      "Chapter 3 - Bottom"
+      "Chapter 03 - Bottom"
     ],
-    "region": "Chapter 3 - Bottom",
+    "region": "Chapter 03 - Bottom",
     "requires": []
   },
   {
-    "name": "Chapter 3 - Bottom - Item 6",
+    "name": "Chapter 03 - Bottom - Item 06",
     "category": [
-      "Chapter 3 - Bottom"
+      "Chapter 03 - Bottom"
     ],
-    "region": "Chapter 3 - Bottom",
+    "region": "Chapter 03 - Bottom",
     "requires": []
   },
   {
-    "name": "Chapter 3 - Bottom - Item 7",
+    "name": "Chapter 03 - Bottom - Item 07",
     "category": [
-      "Chapter 3 - Bottom"
+      "Chapter 03 - Bottom"
     ],
-    "region": "Chapter 3 - Bottom",
+    "region": "Chapter 03 - Bottom",
     "requires": []
   },
   {
-    "name": "Chapter 3 - Bottom - Item 8",
+    "name": "Chapter 03 - Bottom - Item 08",
     "category": [
-      "Chapter 3 - Bottom"
+      "Chapter 03 - Bottom"
     ],
-    "region": "Chapter 3 - Bottom",
+    "region": "Chapter 03 - Bottom",
     "requires": []
   },
   {
-    "name": "Chapter 3 - Bottom - Item 9",
+    "name": "Chapter 03 - Bottom - Item 09",
     "category": [
-      "Chapter 3 - Bottom"
+      "Chapter 03 - Bottom"
     ],
-    "region": "Chapter 3 - Bottom",
+    "region": "Chapter 03 - Bottom",
     "requires": []
   },
   {
-    "name": "Chapter 3 - Bottom - Item 10",
+    "name": "Chapter 03 - Bottom - Item 10",
     "category": [
-      "Chapter 3 - Bottom"
+      "Chapter 03 - Bottom"
     ],
-    "region": "Chapter 3 - Bottom",
+    "region": "Chapter 03 - Bottom",
     "requires": []
   },
   {
-    "name": "Chapter 4 - Item 1",
+    "name": "Chapter 04 - Item 01",
     "category": [
-      "Chapter 4"
+      "Chapter 04"
     ],
-    "region": "Chapter 4",
+    "region": "Chapter 04",
     "requires": []
   },
   {
-    "name": "Chapter 4 - Item 2",
+    "name": "Chapter 04 - Item 02",
     "category": [
-      "Chapter 4"
+      "Chapter 04"
     ],
-    "region": "Chapter 4",
+    "region": "Chapter 04",
     "requires": []
   },
   {
-    "name": "Chapter 4 - Item 3",
+    "name": "Chapter 04 - Item 03",
     "category": [
-      "Chapter 4"
+      "Chapter 04"
     ],
-    "region": "Chapter 4",
+    "region": "Chapter 04",
     "requires": []
   },
   {
-    "name": "Chapter 4 - Item 4",
+    "name": "Chapter 04 - Item 04",
     "category": [
-      "Chapter 4"
+      "Chapter 04"
     ],
-    "region": "Chapter 4",
+    "region": "Chapter 04",
     "requires": []
   },
   {
-    "name": "Chapter 4 - Item 5",
+    "name": "Chapter 04 - Item 05",
     "category": [
-      "Chapter 4"
+      "Chapter 04"
     ],
-    "region": "Chapter 4",
+    "region": "Chapter 04",
     "requires": []
   },
   {
-    "name": "Chapter 4 - Item 6",
+    "name": "Chapter 04 - Item 06",
     "category": [
-      "Chapter 4"
+      "Chapter 04"
     ],
-    "region": "Chapter 4",
+    "region": "Chapter 04",
     "requires": []
   },
   {
-    "name": "Chapter 4 - Item 7",
+    "name": "Chapter 04 - Item 07",
     "category": [
-      "Chapter 4"
+      "Chapter 04"
     ],
-    "region": "Chapter 4",
+    "region": "Chapter 04",
     "requires": []
   },
   {
-    "name": "Chapter 4 - Item 8",
+    "name": "Chapter 04 - Item 08",
     "category": [
-      "Chapter 4"
+      "Chapter 04"
     ],
-    "region": "Chapter 4",
+    "region": "Chapter 04",
     "requires": []
   },
   {
-    "name": "Chapter 4 - Item 9",
+    "name": "Chapter 04 - Item 09",
     "category": [
-      "Chapter 4"
+      "Chapter 04"
     ],
-    "region": "Chapter 4",
+    "region": "Chapter 04",
     "requires": []
   },
   {
-    "name": "Chapter 4 - Item 10",
+    "name": "Chapter 04 - Item 10",
     "category": [
-      "Chapter 4"
+      "Chapter 04"
     ],
-    "region": "Chapter 4",
+    "region": "Chapter 04",
     "requires": []
   },
   {
-    "name": "Chapter 5 - Top - Item 1",
+    "name": "Chapter 05 - Top - Item 01",
     "category": [
-      "Chapter 5 - Top"
+      "Chapter 05 - Top"
     ],
-    "region": "Chapter 5 - Top",
+    "region": "Chapter 05 - Top",
     "requires": []
   },
   {
-    "name": "Chapter 5 - Top - Item 2",
+    "name": "Chapter 05 - Top - Item 02",
     "category": [
-      "Chapter 5 - Top"
+      "Chapter 05 - Top"
     ],
-    "region": "Chapter 5 - Top",
+    "region": "Chapter 05 - Top",
     "requires": []
   },
   {
-    "name": "Chapter 5 - Top - Item 3",
+    "name": "Chapter 05 - Top - Item 03",
     "category": [
-      "Chapter 5 - Top"
+      "Chapter 05 - Top"
     ],
-    "region": "Chapter 5 - Top",
+    "region": "Chapter 05 - Top",
     "requires": []
   },
   {
-    "name": "Chapter 5 - Top - Item 4",
+    "name": "Chapter 05 - Top - Item 04",
     "category": [
-      "Chapter 5 - Top"
+      "Chapter 05 - Top"
     ],
-    "region": "Chapter 5 - Top",
+    "region": "Chapter 05 - Top",
     "requires": []
   },
   {
-    "name": "Chapter 5 - Top - Item 5",
+    "name": "Chapter 05 - Top - Item 05",
     "category": [
-      "Chapter 5 - Top"
+      "Chapter 05 - Top"
     ],
-    "region": "Chapter 5 - Top",
+    "region": "Chapter 05 - Top",
     "requires": []
   },
   {
-    "name": "Chapter 5 - Top - Item 6",
+    "name": "Chapter 05 - Top - Item 06",
     "category": [
-      "Chapter 5 - Top"
+      "Chapter 05 - Top"
     ],
-    "region": "Chapter 5 - Top",
+    "region": "Chapter 05 - Top",
     "requires": []
   },
   {
-    "name": "Chapter 5 - Top - Item 7",
+    "name": "Chapter 05 - Top - Item 07",
     "category": [
-      "Chapter 5 - Top"
+      "Chapter 05 - Top"
     ],
-    "region": "Chapter 5 - Top",
+    "region": "Chapter 05 - Top",
     "requires": []
   },
   {
-    "name": "Chapter 5 - Top - Item 8",
+    "name": "Chapter 05 - Top - Item 08",
     "category": [
-      "Chapter 5 - Top"
+      "Chapter 05 - Top"
     ],
-    "region": "Chapter 5 - Top",
+    "region": "Chapter 05 - Top",
     "requires": []
   },
   {
-    "name": "Chapter 5 - Top - Item 9",
+    "name": "Chapter 05 - Top - Item 09",
     "category": [
-      "Chapter 5 - Top"
+      "Chapter 05 - Top"
     ],
-    "region": "Chapter 5 - Top",
+    "region": "Chapter 05 - Top",
     "requires": []
   },
   {
-    "name": "Chapter 5 - Top - Item 10",
+    "name": "Chapter 05 - Top - Item 10",
     "category": [
-      "Chapter 5 - Top"
+      "Chapter 05 - Top"
     ],
-    "region": "Chapter 5 - Top",
+    "region": "Chapter 05 - Top",
     "requires": []
   },
   {
-    "name": "Chapter 5 - Bottom - Item 1",
+    "name": "Chapter 05 - Bottom - Item 01",
     "category": [
-      "Chapter 5 - Bottom"
+      "Chapter 05 - Bottom"
     ],
-    "region": "Chapter 5 - Bottom",
+    "region": "Chapter 05 - Bottom",
     "requires": []
   },
   {
-    "name": "Chapter 5 - Bottom - Item 2",
+    "name": "Chapter 05 - Bottom - Item 02",
     "category": [
-      "Chapter 5 - Bottom"
+      "Chapter 05 - Bottom"
     ],
-    "region": "Chapter 5 - Bottom",
+    "region": "Chapter 05 - Bottom",
     "requires": []
   },
   {
-    "name": "Chapter 5 - Bottom - Item 3",
+    "name": "Chapter 05 - Bottom - Item 03",
     "category": [
-      "Chapter 5 - Bottom"
+      "Chapter 05 - Bottom"
     ],
-    "region": "Chapter 5 - Bottom",
+    "region": "Chapter 05 - Bottom",
     "requires": []
   },
   {
-    "name": "Chapter 5 - Bottom - Item 4",
+    "name": "Chapter 05 - Bottom - Item 04",
     "category": [
-      "Chapter 5 - Bottom"
+      "Chapter 05 - Bottom"
     ],
-    "region": "Chapter 5 - Bottom",
+    "region": "Chapter 05 - Bottom",
     "requires": []
   },
   {
-    "name": "Chapter 5 - Bottom - Item 5",
+    "name": "Chapter 05 - Bottom - Item 05",
     "category": [
-      "Chapter 5 - Bottom"
+      "Chapter 05 - Bottom"
     ],
-    "region": "Chapter 5 - Bottom",
+    "region": "Chapter 05 - Bottom",
     "requires": []
   },
   {
-    "name": "Chapter 5 - Bottom - Item 6",
+    "name": "Chapter 05 - Bottom - Item 06",
     "category": [
-      "Chapter 5 - Bottom"
+      "Chapter 05 - Bottom"
     ],
-    "region": "Chapter 5 - Bottom",
+    "region": "Chapter 05 - Bottom",
     "requires": []
   },
   {
-    "name": "Chapter 5 - Bottom - Item 7",
+    "name": "Chapter 05 - Bottom - Item 07",
     "category": [
-      "Chapter 5 - Bottom"
+      "Chapter 05 - Bottom"
     ],
-    "region": "Chapter 5 - Bottom",
+    "region": "Chapter 05 - Bottom",
     "requires": []
   },
   {
-    "name": "Chapter 5 - Bottom - Item 8",
+    "name": "Chapter 05 - Bottom - Item 08",
     "category": [
-      "Chapter 5 - Bottom"
+      "Chapter 05 - Bottom"
     ],
-    "region": "Chapter 5 - Bottom",
+    "region": "Chapter 05 - Bottom",
     "requires": []
   },
   {
-    "name": "Chapter 5 - Bottom - Item 9",
+    "name": "Chapter 05 - Bottom - Item 09",
     "category": [
-      "Chapter 5 - Bottom"
+      "Chapter 05 - Bottom"
     ],
-    "region": "Chapter 5 - Bottom",
+    "region": "Chapter 05 - Bottom",
     "requires": []
   },
   {
-    "name": "Chapter 5 - Bottom - Item 10",
+    "name": "Chapter 05 - Bottom - Item 10",
     "category": [
-      "Chapter 5 - Bottom"
+      "Chapter 05 - Bottom"
     ],
-    "region": "Chapter 5 - Bottom",
+    "region": "Chapter 05 - Bottom",
     "requires": []
   },
   {
-    "name": "Chapter 6 - Top - Item 1",
+    "name": "Chapter 06 - Top - Item 01",
     "category": [
-      "Chapter 6 - Top"
+      "Chapter 06 - Top"
     ],
-    "region": "Chapter 6 - Top",
+    "region": "Chapter 06 - Top",
     "requires": []
   },
   {
-    "name": "Chapter 6 - Top - Item 2",
+    "name": "Chapter 06 - Top - Item 02",
     "category": [
-      "Chapter 6 - Top"
+      "Chapter 06 - Top"
     ],
-    "region": "Chapter 6 - Top",
+    "region": "Chapter 06 - Top",
     "requires": []
   },
   {
-    "name": "Chapter 6 - Top - Item 3",
+    "name": "Chapter 06 - Top - Item 03",
     "category": [
-      "Chapter 6 - Top"
+      "Chapter 06 - Top"
     ],
-    "region": "Chapter 6 - Top",
+    "region": "Chapter 06 - Top",
     "requires": []
   },
   {
-    "name": "Chapter 6 - Top - Item 4",
+    "name": "Chapter 06 - Top - Item 04",
     "category": [
-      "Chapter 6 - Top"
+      "Chapter 06 - Top"
     ],
-    "region": "Chapter 6 - Top",
+    "region": "Chapter 06 - Top",
     "requires": []
   },
   {
-    "name": "Chapter 6 - Top - Item 5",
+    "name": "Chapter 06 - Top - Item 05",
     "category": [
-      "Chapter 6 - Top"
+      "Chapter 06 - Top"
     ],
-    "region": "Chapter 6 - Top",
+    "region": "Chapter 06 - Top",
     "requires": []
   },
   {
-    "name": "Chapter 6 - Top - Item 6",
+    "name": "Chapter 06 - Top - Item 06",
     "category": [
-      "Chapter 6 - Top"
+      "Chapter 06 - Top"
     ],
-    "region": "Chapter 6 - Top",
+    "region": "Chapter 06 - Top",
     "requires": []
   },
   {
-    "name": "Chapter 6 - Top - Item 7",
+    "name": "Chapter 06 - Top - Item 07",
     "category": [
-      "Chapter 6 - Top"
+      "Chapter 06 - Top"
     ],
-    "region": "Chapter 6 - Top",
+    "region": "Chapter 06 - Top",
     "requires": []
   },
   {
-    "name": "Chapter 6 - Top - Item 8",
+    "name": "Chapter 06 - Top - Item 08",
     "category": [
-      "Chapter 6 - Top"
+      "Chapter 06 - Top"
     ],
-    "region": "Chapter 6 - Top",
+    "region": "Chapter 06 - Top",
     "requires": []
   },
   {
-    "name": "Chapter 6 - Top - Item 9",
+    "name": "Chapter 06 - Top - Item 09",
     "category": [
-      "Chapter 6 - Top"
+      "Chapter 06 - Top"
     ],
-    "region": "Chapter 6 - Top",
+    "region": "Chapter 06 - Top",
     "requires": []
   },
   {
-    "name": "Chapter 6 - Top - Item 10",
+    "name": "Chapter 06 - Top - Item 10",
     "category": [
-      "Chapter 6 - Top"
+      "Chapter 06 - Top"
     ],
-    "region": "Chapter 6 - Top",
+    "region": "Chapter 06 - Top",
     "requires": []
   },
   {
-    "name": "Chapter 6 - Bottom - Item 1",
+    "name": "Chapter 06 - Bottom - Item 01",
     "category": [
-      "Chapter 6 - Bottom"
+      "Chapter 06 - Bottom"
     ],
-    "region": "Chapter 6 - Bottom",
+    "region": "Chapter 06 - Bottom",
     "requires": []
   },
   {
-    "name": "Chapter 6 - Bottom - Item 2",
+    "name": "Chapter 06 - Bottom - Item 02",
     "category": [
-      "Chapter 6 - Bottom"
+      "Chapter 06 - Bottom"
     ],
-    "region": "Chapter 6 - Bottom",
+    "region": "Chapter 06 - Bottom",
     "requires": []
   },
   {
-    "name": "Chapter 6 - Bottom - Item 3",
+    "name": "Chapter 06 - Bottom - Item 03",
     "category": [
-      "Chapter 6 - Bottom"
+      "Chapter 06 - Bottom"
     ],
-    "region": "Chapter 6 - Bottom",
+    "region": "Chapter 06 - Bottom",
     "requires": []
   },
   {
-    "name": "Chapter 6 - Bottom - Item 4",
+    "name": "Chapter 06 - Bottom - Item 04",
     "category": [
-      "Chapter 6 - Bottom"
+      "Chapter 06 - Bottom"
     ],
-    "region": "Chapter 6 - Bottom",
+    "region": "Chapter 06 - Bottom",
     "requires": []
   },
   {
-    "name": "Chapter 6 - Bottom - Item 5",
+    "name": "Chapter 06 - Bottom - Item 05",
     "category": [
-      "Chapter 6 - Bottom"
+      "Chapter 06 - Bottom"
     ],
-    "region": "Chapter 6 - Bottom",
+    "region": "Chapter 06 - Bottom",
     "requires": []
   },
   {
-    "name": "Chapter 6 - Bottom - Item 6",
+    "name": "Chapter 06 - Bottom - Item 06",
     "category": [
-      "Chapter 6 - Bottom"
+      "Chapter 06 - Bottom"
     ],
-    "region": "Chapter 6 - Bottom",
+    "region": "Chapter 06 - Bottom",
     "requires": []
   },
   {
-    "name": "Chapter 6 - Bottom - Item 7",
+    "name": "Chapter 06 - Bottom - Item 07",
     "category": [
-      "Chapter 6 - Bottom"
+      "Chapter 06 - Bottom"
     ],
-    "region": "Chapter 6 - Bottom",
+    "region": "Chapter 06 - Bottom",
     "requires": []
   },
   {
-    "name": "Chapter 6 - Bottom - Item 8",
+    "name": "Chapter 06 - Bottom - Item 08",
     "category": [
-      "Chapter 6 - Bottom"
+      "Chapter 06 - Bottom"
     ],
-    "region": "Chapter 6 - Bottom",
+    "region": "Chapter 06 - Bottom",
     "requires": []
   },
   {
-    "name": "Chapter 6 - Bottom - Item 9",
+    "name": "Chapter 06 - Bottom - Item 09",
     "category": [
-      "Chapter 6 - Bottom"
+      "Chapter 06 - Bottom"
     ],
-    "region": "Chapter 6 - Bottom",
+    "region": "Chapter 06 - Bottom",
     "requires": []
   },
   {
-    "name": "Chapter 6 - Bottom - Item 10",
+    "name": "Chapter 06 - Bottom - Item 10",
     "category": [
-      "Chapter 6 - Bottom"
+      "Chapter 06 - Bottom"
     ],
-    "region": "Chapter 6 - Bottom",
+    "region": "Chapter 06 - Bottom",
     "requires": []
   },
   {
-    "name": "Chapter 7 - Item 1",
+    "name": "Chapter 07 - Item 01",
     "category": [
-      "Chapter 7"
+      "Chapter 07"
     ],
-    "region": "Chapter 7",
+    "region": "Chapter 07",
     "requires": []
   },
   {
-    "name": "Chapter 7 - Item 2",
+    "name": "Chapter 07 - Item 02",
     "category": [
-      "Chapter 7"
+      "Chapter 07"
     ],
-    "region": "Chapter 7",
+    "region": "Chapter 07",
     "requires": []
   },
   {
-    "name": "Chapter 7 - Item 3",
+    "name": "Chapter 07 - Item 03",
     "category": [
-      "Chapter 7"
+      "Chapter 07"
     ],
-    "region": "Chapter 7",
+    "region": "Chapter 07",
     "requires": []
   },
   {
-    "name": "Chapter 7 - Item 4",
+    "name": "Chapter 07 - Item 04",
     "category": [
-      "Chapter 7"
+      "Chapter 07"
     ],
-    "region": "Chapter 7",
+    "region": "Chapter 07",
     "requires": []
   },
   {
-    "name": "Chapter 7 - Item 5",
+    "name": "Chapter 07 - Item 05",
     "category": [
-      "Chapter 7"
+      "Chapter 07"
     ],
-    "region": "Chapter 7",
+    "region": "Chapter 07",
     "requires": []
   },
   {
-    "name": "Chapter 7 - Item 6",
+    "name": "Chapter 07 - Item 06",
     "category": [
-      "Chapter 7"
+      "Chapter 07"
     ],
-    "region": "Chapter 7",
+    "region": "Chapter 07",
     "requires": []
   },
   {
-    "name": "Chapter 7 - Item 7",
+    "name": "Chapter 07 - Item 07",
     "category": [
-      "Chapter 7"
+      "Chapter 07"
     ],
-    "region": "Chapter 7",
+    "region": "Chapter 07",
     "requires": []
   },
   {
-    "name": "Chapter 7 - Item 8",
+    "name": "Chapter 07 - Item 08",
     "category": [
-      "Chapter 7"
+      "Chapter 07"
     ],
-    "region": "Chapter 7",
+    "region": "Chapter 07",
     "requires": []
   },
   {
-    "name": "Chapter 7 - Item 9",
+    "name": "Chapter 07 - Item 09",
     "category": [
-      "Chapter 7"
+      "Chapter 07"
     ],
-    "region": "Chapter 7",
+    "region": "Chapter 07",
     "requires": []
   },
   {
-    "name": "Chapter 7 - Item 10",
+    "name": "Chapter 07 - Item 10",
     "category": [
-      "Chapter 7"
+      "Chapter 07"
     ],
-    "region": "Chapter 7",
+    "region": "Chapter 07",
     "requires": []
   },
   {
-    "name": "Victory - Chapter 7 Completed",
+    "name": "Victory - Chapter 07 Completed",
     "category": [
       "Win Condition"
     ],
-    "region": "Chapter 7",
+    "region": "Chapter 07",
     "victory": true,
     "requires": []
   }
