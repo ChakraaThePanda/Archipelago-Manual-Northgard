@@ -1,90 +1,93 @@
-[
-  {
-    "name": "Chapter 01",
-    "category": [
-      "Chapters"
-    ],
-    "count": 1,
-    "progression": true
-  },
-  {
-    "name": "Chapter 02 - Top",
-    "category": [
-      "Chapters"
-    ],
-    "count": 1,
-    "progression": true
-  },
-  {
-    "name": "Chapter 02 - Bottom",
-    "category": [
-      "Chapters"
-    ],
-    "count": 1,
-    "progression": true
-  },
-  {
-    "name": "Chapter 03 - Top",
-    "category": [
-      "Chapters"
-    ],
-    "count": 1,
-    "progression": true
-  },
-  {
-    "name": "Chapter 03 - Bottom",
-    "category": [
-      "Chapters"
-    ],
-    "count": 1,
-    "progression": true
-  },
-  {
-    "name": "Chapter 04",
-    "category": [
-      "Chapters"
-    ],
-    "count": 1,
-    "progression": true
-  },
-  {
-    "name": "Chapter 05 - Top",
-    "category": [
-      "Chapters"
-    ],
-    "count": 1,
-    "progression": true
-  },
-  {
-    "name": "Chapter 05 - Bottom",
-    "category": [
-      "Chapters"
-    ],
-    "count": 1,
-    "progression": true
-  },
-  {
-    "name": "Chapter 06 - Top",
-    "category": [
-      "Chapters"
-    ],
-    "count": 1,
-    "progression": true
-  },
-  {
-    "name": "Chapter 06 - Bottom",
-    "category": [
-      "Chapters"
-    ],
-    "count": 1,
-    "progression": true
-  },
-  {
-    "name": "Chapter 07",
-    "category": [
-      "Chapters"
-    ],
-    "count": 1,
-    "progression": true
-  }
-]
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+  "data": [
+    {
+      "name": "Chapter 01",
+      "category": [
+        "Chapters"
+      ],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Chapter 02 - Top",
+      "category": [
+        "Chapters"
+      ],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Chapter 02 - Bottom",
+      "category": [
+        "Chapters"
+      ],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Chapter 03 - Top",
+      "category": [
+        "Chapters"
+      ],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Chapter 03 - Bottom",
+      "category": [
+        "Chapters"
+      ],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Chapter 04",
+      "category": [
+        "Chapters"
+      ],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Chapter 05 - Top",
+      "category": [
+        "Chapters"
+      ],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Chapter 05 - Bottom",
+      "category": [
+        "Chapters"
+      ],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Chapter 06 - Top",
+      "category": [
+        "Chapters"
+      ],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Chapter 06 - Bottom",
+      "category": [
+        "Chapters"
+      ],
+      "count": 1,
+      "progression": true
+    },
+    {
+      "name": "Chapter 07",
+      "category": [
+        "Chapters"
+      ],
+      "count": 1,
+      "progression": true
+    }
+  ]
+}

@@ -1,4 +1,5 @@
 {
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
   "Chapter 01": {
     "starting": true,
     "connects_to": [

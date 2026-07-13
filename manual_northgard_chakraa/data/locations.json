@@ -1,891 +1,894 @@
-[
-  {
-    "name": "Chapter 01 - Item 01",
-    "category": [
-      "Chapter 01"
-    ],
-    "region": "Chapter 01",
-    "requires": []
-  },
-  {
-    "name": "Chapter 01 - Item 02",
-    "category": [
-      "Chapter 01"
-    ],
-    "region": "Chapter 01",
-    "requires": []
-  },
-  {
-    "name": "Chapter 01 - Item 03",
-    "category": [
-      "Chapter 01"
-    ],
-    "region": "Chapter 01",
-    "requires": []
-  },
-  {
-    "name": "Chapter 01 - Item 04",
-    "category": [
-      "Chapter 01"
-    ],
-    "region": "Chapter 01",
-    "requires": []
-  },
-  {
-    "name": "Chapter 01 - Item 05",
-    "category": [
-      "Chapter 01"
-    ],
-    "region": "Chapter 01",
-    "requires": []
-  },
-  {
-    "name": "Chapter 01 - Item 06",
-    "category": [
-      "Chapter 01"
-    ],
-    "region": "Chapter 01",
-    "requires": []
-  },
-  {
-    "name": "Chapter 01 - Item 07",
-    "category": [
-      "Chapter 01"
-    ],
-    "region": "Chapter 01",
-    "requires": []
-  },
-  {
-    "name": "Chapter 01 - Item 08",
-    "category": [
-      "Chapter 01"
-    ],
-    "region": "Chapter 01",
-    "requires": []
-  },
-  {
-    "name": "Chapter 01 - Item 09",
-    "category": [
-      "Chapter 01"
-    ],
-    "region": "Chapter 01",
-    "requires": []
-  },
-  {
-    "name": "Chapter 01 - Item 10",
-    "category": [
-      "Chapter 01"
-    ],
-    "region": "Chapter 01",
-    "requires": []
-  },
-  {
-    "name": "Chapter 02 - Top - Item 01",
-    "category": [
-      "Chapter 02 - Top"
-    ],
-    "region": "Chapter 02 - Top",
-    "requires": []
-  },
-  {
-    "name": "Chapter 02 - Top - Item 02",
-    "category": [
-      "Chapter 02 - Top"
-    ],
-    "region": "Chapter 02 - Top",
-    "requires": []
-  },
-  {
-    "name": "Chapter 02 - Top - Item 03",
-    "category": [
-      "Chapter 02 - Top"
-    ],
-    "region": "Chapter 02 - Top",
-    "requires": []
-  },
-  {
-    "name": "Chapter 02 - Top - Item 04",
-    "category": [
-      "Chapter 02 - Top"
-    ],
-    "region": "Chapter 02 - Top",
-    "requires": []
-  },
-  {
-    "name": "Chapter 02 - Top - Item 05",
-    "category": [
-      "Chapter 02 - Top"
-    ],
-    "region": "Chapter 02 - Top",
-    "requires": []
-  },
-  {
-    "name": "Chapter 02 - Top - Item 06",
-    "category": [
-      "Chapter 02 - Top"
-    ],
-    "region": "Chapter 02 - Top",
-    "requires": []
-  },
-  {
-    "name": "Chapter 02 - Top - Item 07",
-    "category": [
-      "Chapter 02 - Top"
-    ],
-    "region": "Chapter 02 - Top",
-    "requires": []
-  },
-  {
-    "name": "Chapter 02 - Top - Item 08",
-    "category": [
-      "Chapter 02 - Top"
-    ],
-    "region": "Chapter 02 - Top",
-    "requires": []
-  },
-  {
-    "name": "Chapter 02 - Top - Item 09",
-    "category": [
-      "Chapter 02 - Top"
-    ],
-    "region": "Chapter 02 - Top",
-    "requires": []
-  },
-  {
-    "name": "Chapter 02 - Top - Item 10",
-    "category": [
-      "Chapter 02 - Top"
-    ],
-    "region": "Chapter 02 - Top",
-    "requires": []
-  },
-  {
-    "name": "Chapter 02 - Bottom - Item 01",
-    "category": [
-      "Chapter 02 - Bottom"
-    ],
-    "region": "Chapter 02 - Bottom",
-    "requires": []
-  },
-  {
-    "name": "Chapter 02 - Bottom - Item 02",
-    "category": [
-      "Chapter 02 - Bottom"
-    ],
-    "region": "Chapter 02 - Bottom",
-    "requires": []
-  },
-  {
-    "name": "Chapter 02 - Bottom - Item 03",
-    "category": [
-      "Chapter 02 - Bottom"
-    ],
-    "region": "Chapter 02 - Bottom",
-    "requires": []
-  },
-  {
-    "name": "Chapter 02 - Bottom - Item 04",
-    "category": [
-      "Chapter 02 - Bottom"
-    ],
-    "region": "Chapter 02 - Bottom",
-    "requires": []
-  },
-  {
-    "name": "Chapter 02 - Bottom - Item 05",
-    "category": [
-      "Chapter 02 - Bottom"
-    ],
-    "region": "Chapter 02 - Bottom",
-    "requires": []
-  },
-  {
-    "name": "Chapter 02 - Bottom - Item 06",
-    "category": [
-      "Chapter 02 - Bottom"
-    ],
-    "region": "Chapter 02 - Bottom",
-    "requires": []
-  },
-  {
-    "name": "Chapter 02 - Bottom - Item 07",
-    "category": [
-      "Chapter 02 - Bottom"
-    ],
-    "region": "Chapter 02 - Bottom",
-    "requires": []
-  },
-  {
-    "name": "Chapter 02 - Bottom - Item 08",
-    "category": [
-      "Chapter 02 - Bottom"
-    ],
-    "region": "Chapter 02 - Bottom",
-    "requires": []
-  },
-  {
-    "name": "Chapter 02 - Bottom - Item 09",
-    "category": [
-      "Chapter 02 - Bottom"
-    ],
-    "region": "Chapter 02 - Bottom",
-    "requires": []
-  },
-  {
-    "name": "Chapter 02 - Bottom - Item 10",
-    "category": [
-      "Chapter 02 - Bottom"
-    ],
-    "region": "Chapter 02 - Bottom",
-    "requires": []
-  },
-  {
-    "name": "Chapter 03 - Top - Item 01",
-    "category": [
-      "Chapter 03 - Top"
-    ],
-    "region": "Chapter 03 - Top",
-    "requires": []
-  },
-  {
-    "name": "Chapter 03 - Top - Item 02",
-    "category": [
-      "Chapter 03 - Top"
-    ],
-    "region": "Chapter 03 - Top",
-    "requires": []
-  },
-  {
-    "name": "Chapter 03 - Top - Item 03",
-    "category": [
-      "Chapter 03 - Top"
-    ],
-    "region": "Chapter 03 - Top",
-    "requires": []
-  },
-  {
-    "name": "Chapter 03 - Top - Item 04",
-    "category": [
-      "Chapter 03 - Top"
-    ],
-    "region": "Chapter 03 - Top",
-    "requires": []
-  },
-  {
-    "name": "Chapter 03 - Top - Item 05",
-    "category": [
-      "Chapter 03 - Top"
-    ],
-    "region": "Chapter 03 - Top",
-    "requires": []
-  },
-  {
-    "name": "Chapter 03 - Top - Item 06",
-    "category": [
-      "Chapter 03 - Top"
-    ],
-    "region": "Chapter 03 - Top",
-    "requires": []
-  },
-  {
-    "name": "Chapter 03 - Top - Item 07",
-    "category": [
-      "Chapter 03 - Top"
-    ],
-    "region": "Chapter 03 - Top",
-    "requires": []
-  },
-  {
-    "name": "Chapter 03 - Top - Item 08",
-    "category": [
-      "Chapter 03 - Top"
-    ],
-    "region": "Chapter 03 - Top",
-    "requires": []
-  },
-  {
-    "name": "Chapter 03 - Top - Item 09",
-    "category": [
-      "Chapter 03 - Top"
-    ],
-    "region": "Chapter 03 - Top",
-    "requires": []
-  },
-  {
-    "name": "Chapter 03 - Top - Item 10",
-    "category": [
-      "Chapter 03 - Top"
-    ],
-    "region": "Chapter 03 - Top",
-    "requires": []
-  },
-  {
-    "name": "Chapter 03 - Bottom - Item 01",
-    "category": [
-      "Chapter 03 - Bottom"
-    ],
-    "region": "Chapter 03 - Bottom",
-    "requires": []
-  },
-  {
-    "name": "Chapter 03 - Bottom - Item 02",
-    "category": [
-      "Chapter 03 - Bottom"
-    ],
-    "region": "Chapter 03 - Bottom",
-    "requires": []
-  },
-  {
-    "name": "Chapter 03 - Bottom - Item 03",
-    "category": [
-      "Chapter 03 - Bottom"
-    ],
-    "region": "Chapter 03 - Bottom",
-    "requires": []
-  },
-  {
-    "name": "Chapter 03 - Bottom - Item 04",
-    "category": [
-      "Chapter 03 - Bottom"
-    ],
-    "region": "Chapter 03 - Bottom",
-    "requires": []
-  },
-  {
-    "name": "Chapter 03 - Bottom - Item 05",
-    "category": [
-      "Chapter 03 - Bottom"
-    ],
-    "region": "Chapter 03 - Bottom",
-    "requires": []
-  },
-  {
-    "name": "Chapter 03 - Bottom - Item 06",
-    "category": [
-      "Chapter 03 - Bottom"
-    ],
-    "region": "Chapter 03 - Bottom",
-    "requires": []
-  },
-  {
-    "name": "Chapter 03 - Bottom - Item 07",
-    "category": [
-      "Chapter 03 - Bottom"
-    ],
-    "region": "Chapter 03 - Bottom",
-    "requires": []
-  },
-  {
-    "name": "Chapter 03 - Bottom - Item 08",
-    "category": [
-      "Chapter 03 - Bottom"
-    ],
-    "region": "Chapter 03 - Bottom",
-    "requires": []
-  },
-  {
-    "name": "Chapter 03 - Bottom - Item 09",
-    "category": [
-      "Chapter 03 - Bottom"
-    ],
-    "region": "Chapter 03 - Bottom",
-    "requires": []
-  },
-  {
-    "name": "Chapter 03 - Bottom - Item 10",
-    "category": [
-      "Chapter 03 - Bottom"
-    ],
-    "region": "Chapter 03 - Bottom",
-    "requires": []
-  },
-  {
-    "name": "Chapter 04 - Item 01",
-    "category": [
-      "Chapter 04"
-    ],
-    "region": "Chapter 04",
-    "requires": []
-  },
-  {
-    "name": "Chapter 04 - Item 02",
-    "category": [
-      "Chapter 04"
-    ],
-    "region": "Chapter 04",
-    "requires": []
-  },
-  {
-    "name": "Chapter 04 - Item 03",
-    "category": [
-      "Chapter 04"
-    ],
-    "region": "Chapter 04",
-    "requires": []
-  },
-  {
-    "name": "Chapter 04 - Item 04",
-    "category": [
-      "Chapter 04"
-    ],
-    "region": "Chapter 04",
-    "requires": []
-  },
-  {
-    "name": "Chapter 04 - Item 05",
-    "category": [
-      "Chapter 04"
-    ],
-    "region": "Chapter 04",
-    "requires": []
-  },
-  {
-    "name": "Chapter 04 - Item 06",
-    "category": [
-      "Chapter 04"
-    ],
-    "region": "Chapter 04",
-    "requires": []
-  },
-  {
-    "name": "Chapter 04 - Item 07",
-    "category": [
-      "Chapter 04"
-    ],
-    "region": "Chapter 04",
-    "requires": []
-  },
-  {
-    "name": "Chapter 04 - Item 08",
-    "category": [
-      "Chapter 04"
-    ],
-    "region": "Chapter 04",
-    "requires": []
-  },
-  {
-    "name": "Chapter 04 - Item 09",
-    "category": [
-      "Chapter 04"
-    ],
-    "region": "Chapter 04",
-    "requires": []
-  },
-  {
-    "name": "Chapter 04 - Item 10",
-    "category": [
-      "Chapter 04"
-    ],
-    "region": "Chapter 04",
-    "requires": []
-  },
-  {
-    "name": "Chapter 05 - Top - Item 01",
-    "category": [
-      "Chapter 05 - Top"
-    ],
-    "region": "Chapter 05 - Top",
-    "requires": []
-  },
-  {
-    "name": "Chapter 05 - Top - Item 02",
-    "category": [
-      "Chapter 05 - Top"
-    ],
-    "region": "Chapter 05 - Top",
-    "requires": []
-  },
-  {
-    "name": "Chapter 05 - Top - Item 03",
-    "category": [
-      "Chapter 05 - Top"
-    ],
-    "region": "Chapter 05 - Top",
-    "requires": []
-  },
-  {
-    "name": "Chapter 05 - Top - Item 04",
-    "category": [
-      "Chapter 05 - Top"
-    ],
-    "region": "Chapter 05 - Top",
-    "requires": []
-  },
-  {
-    "name": "Chapter 05 - Top - Item 05",
-    "category": [
-      "Chapter 05 - Top"
-    ],
-    "region": "Chapter 05 - Top",
-    "requires": []
-  },
-  {
-    "name": "Chapter 05 - Top - Item 06",
-    "category": [
-      "Chapter 05 - Top"
-    ],
-    "region": "Chapter 05 - Top",
-    "requires": []
-  },
-  {
-    "name": "Chapter 05 - Top - Item 07",
-    "category": [
-      "Chapter 05 - Top"
-    ],
-    "region": "Chapter 05 - Top",
-    "requires": []
-  },
-  {
-    "name": "Chapter 05 - Top - Item 08",
-    "category": [
-      "Chapter 05 - Top"
-    ],
-    "region": "Chapter 05 - Top",
-    "requires": []
-  },
-  {
-    "name": "Chapter 05 - Top - Item 09",
-    "category": [
-      "Chapter 05 - Top"
-    ],
-    "region": "Chapter 05 - Top",
-    "requires": []
-  },
-  {
-    "name": "Chapter 05 - Top - Item 10",
-    "category": [
-      "Chapter 05 - Top"
-    ],
-    "region": "Chapter 05 - Top",
-    "requires": []
-  },
-  {
-    "name": "Chapter 05 - Bottom - Item 01",
-    "category": [
-      "Chapter 05 - Bottom"
-    ],
-    "region": "Chapter 05 - Bottom",
-    "requires": []
-  },
-  {
-    "name": "Chapter 05 - Bottom - Item 02",
-    "category": [
-      "Chapter 05 - Bottom"
-    ],
-    "region": "Chapter 05 - Bottom",
-    "requires": []
-  },
-  {
-    "name": "Chapter 05 - Bottom - Item 03",
-    "category": [
-      "Chapter 05 - Bottom"
-    ],
-    "region": "Chapter 05 - Bottom",
-    "requires": []
-  },
-  {
-    "name": "Chapter 05 - Bottom - Item 04",
-    "category": [
-      "Chapter 05 - Bottom"
-    ],
-    "region": "Chapter 05 - Bottom",
-    "requires": []
-  },
-  {
-    "name": "Chapter 05 - Bottom - Item 05",
-    "category": [
-      "Chapter 05 - Bottom"
-    ],
-    "region": "Chapter 05 - Bottom",
-    "requires": []
-  },
-  {
-    "name": "Chapter 05 - Bottom - Item 06",
-    "category": [
-      "Chapter 05 - Bottom"
-    ],
-    "region": "Chapter 05 - Bottom",
-    "requires": []
-  },
-  {
-    "name": "Chapter 05 - Bottom - Item 07",
-    "category": [
-      "Chapter 05 - Bottom"
-    ],
-    "region": "Chapter 05 - Bottom",
-    "requires": []
-  },
-  {
-    "name": "Chapter 05 - Bottom - Item 08",
-    "category": [
-      "Chapter 05 - Bottom"
-    ],
-    "region": "Chapter 05 - Bottom",
-    "requires": []
-  },
-  {
-    "name": "Chapter 05 - Bottom - Item 09",
-    "category": [
-      "Chapter 05 - Bottom"
-    ],
-    "region": "Chapter 05 - Bottom",
-    "requires": []
-  },
-  {
-    "name": "Chapter 05 - Bottom - Item 10",
-    "category": [
-      "Chapter 05 - Bottom"
-    ],
-    "region": "Chapter 05 - Bottom",
-    "requires": []
-  },
-  {
-    "name": "Chapter 06 - Top - Item 01",
-    "category": [
-      "Chapter 06 - Top"
-    ],
-    "region": "Chapter 06 - Top",
-    "requires": []
-  },
-  {
-    "name": "Chapter 06 - Top - Item 02",
-    "category": [
-      "Chapter 06 - Top"
-    ],
-    "region": "Chapter 06 - Top",
-    "requires": []
-  },
-  {
-    "name": "Chapter 06 - Top - Item 03",
-    "category": [
-      "Chapter 06 - Top"
-    ],
-    "region": "Chapter 06 - Top",
-    "requires": []
-  },
-  {
-    "name": "Chapter 06 - Top - Item 04",
-    "category": [
-      "Chapter 06 - Top"
-    ],
-    "region": "Chapter 06 - Top",
-    "requires": []
-  },
-  {
-    "name": "Chapter 06 - Top - Item 05",
-    "category": [
-      "Chapter 06 - Top"
-    ],
-    "region": "Chapter 06 - Top",
-    "requires": []
-  },
-  {
-    "name": "Chapter 06 - Top - Item 06",
-    "category": [
-      "Chapter 06 - Top"
-    ],
-    "region": "Chapter 06 - Top",
-    "requires": []
-  },
-  {
-    "name": "Chapter 06 - Top - Item 07",
-    "category": [
-      "Chapter 06 - Top"
-    ],
-    "region": "Chapter 06 - Top",
-    "requires": []
-  },
-  {
-    "name": "Chapter 06 - Top - Item 08",
-    "category": [
-      "Chapter 06 - Top"
-    ],
-    "region": "Chapter 06 - Top",
-    "requires": []
-  },
-  {
-    "name": "Chapter 06 - Top - Item 09",
-    "category": [
-      "Chapter 06 - Top"
-    ],
-    "region": "Chapter 06 - Top",
-    "requires": []
-  },
-  {
-    "name": "Chapter 06 - Top - Item 10",
-    "category": [
-      "Chapter 06 - Top"
-    ],
-    "region": "Chapter 06 - Top",
-    "requires": []
-  },
-  {
-    "name": "Chapter 06 - Bottom - Item 01",
-    "category": [
-      "Chapter 06 - Bottom"
-    ],
-    "region": "Chapter 06 - Bottom",
-    "requires": []
-  },
-  {
-    "name": "Chapter 06 - Bottom - Item 02",
-    "category": [
-      "Chapter 06 - Bottom"
-    ],
-    "region": "Chapter 06 - Bottom",
-    "requires": []
-  },
-  {
-    "name": "Chapter 06 - Bottom - Item 03",
-    "category": [
-      "Chapter 06 - Bottom"
-    ],
-    "region": "Chapter 06 - Bottom",
-    "requires": []
-  },
-  {
-    "name": "Chapter 06 - Bottom - Item 04",
-    "category": [
-      "Chapter 06 - Bottom"
-    ],
-    "region": "Chapter 06 - Bottom",
-    "requires": []
-  },
-  {
-    "name": "Chapter 06 - Bottom - Item 05",
-    "category": [
-      "Chapter 06 - Bottom"
-    ],
-    "region": "Chapter 06 - Bottom",
-    "requires": []
-  },
-  {
-    "name": "Chapter 06 - Bottom - Item 06",
-    "category": [
-      "Chapter 06 - Bottom"
-    ],
-    "region": "Chapter 06 - Bottom",
-    "requires": []
-  },
-  {
-    "name": "Chapter 06 - Bottom - Item 07",
-    "category": [
-      "Chapter 06 - Bottom"
-    ],
-    "region": "Chapter 06 - Bottom",
-    "requires": []
-  },
-  {
-    "name": "Chapter 06 - Bottom - Item 08",
-    "category": [
-      "Chapter 06 - Bottom"
-    ],
-    "region": "Chapter 06 - Bottom",
-    "requires": []
-  },
-  {
-    "name": "Chapter 06 - Bottom - Item 09",
-    "category": [
-      "Chapter 06 - Bottom"
-    ],
-    "region": "Chapter 06 - Bottom",
-    "requires": []
-  },
-  {
-    "name": "Chapter 06 - Bottom - Item 10",
-    "category": [
-      "Chapter 06 - Bottom"
-    ],
-    "region": "Chapter 06 - Bottom",
-    "requires": []
-  },
-  {
-    "name": "Chapter 07 - Item 01",
-    "category": [
-      "Chapter 07"
-    ],
-    "region": "Chapter 07",
-    "requires": []
-  },
-  {
-    "name": "Chapter 07 - Item 02",
-    "category": [
-      "Chapter 07"
-    ],
-    "region": "Chapter 07",
-    "requires": []
-  },
-  {
-    "name": "Chapter 07 - Item 03",
-    "category": [
-      "Chapter 07"
-    ],
-    "region": "Chapter 07",
-    "requires": []
-  },
-  {
-    "name": "Chapter 07 - Item 04",
-    "category": [
-      "Chapter 07"
-    ],
-    "region": "Chapter 07",
-    "requires": []
-  },
-  {
-    "name": "Chapter 07 - Item 05",
-    "category": [
-      "Chapter 07"
-    ],
-    "region": "Chapter 07",
-    "requires": []
-  },
-  {
-    "name": "Chapter 07 - Item 06",
-    "category": [
-      "Chapter 07"
-    ],
-    "region": "Chapter 07",
-    "requires": []
-  },
-  {
-    "name": "Chapter 07 - Item 07",
-    "category": [
-      "Chapter 07"
-    ],
-    "region": "Chapter 07",
-    "requires": []
-  },
-  {
-    "name": "Chapter 07 - Item 08",
-    "category": [
-      "Chapter 07"
-    ],
-    "region": "Chapter 07",
-    "requires": []
-  },
-  {
-    "name": "Chapter 07 - Item 09",
-    "category": [
-      "Chapter 07"
-    ],
-    "region": "Chapter 07",
-    "requires": []
-  },
-  {
-    "name": "Chapter 07 - Item 10",
-    "category": [
-      "Chapter 07"
-    ],
-    "region": "Chapter 07",
-    "requires": []
-  },
-  {
-    "name": "Victory - Chapter 07 Completed",
-    "category": [
-      "Win Condition"
-    ],
-    "region": "Chapter 07",
-    "victory": true,
-    "requires": []
-  }
-]
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
+  "data": [
+    {
+      "name": "Chapter 01 - Item 01",
+      "category": [
+        "Chapter 01"
+      ],
+      "region": "Chapter 01",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 01 - Item 02",
+      "category": [
+        "Chapter 01"
+      ],
+      "region": "Chapter 01",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 01 - Item 03",
+      "category": [
+        "Chapter 01"
+      ],
+      "region": "Chapter 01",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 01 - Item 04",
+      "category": [
+        "Chapter 01"
+      ],
+      "region": "Chapter 01",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 01 - Item 05",
+      "category": [
+        "Chapter 01"
+      ],
+      "region": "Chapter 01",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 01 - Item 06",
+      "category": [
+        "Chapter 01"
+      ],
+      "region": "Chapter 01",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 01 - Item 07",
+      "category": [
+        "Chapter 01"
+      ],
+      "region": "Chapter 01",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 01 - Item 08",
+      "category": [
+        "Chapter 01"
+      ],
+      "region": "Chapter 01",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 01 - Item 09",
+      "category": [
+        "Chapter 01"
+      ],
+      "region": "Chapter 01",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 01 - Item 10",
+      "category": [
+        "Chapter 01"
+      ],
+      "region": "Chapter 01",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 02 - Top - Item 01",
+      "category": [
+        "Chapter 02 - Top"
+      ],
+      "region": "Chapter 02 - Top",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 02 - Top - Item 02",
+      "category": [
+        "Chapter 02 - Top"
+      ],
+      "region": "Chapter 02 - Top",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 02 - Top - Item 03",
+      "category": [
+        "Chapter 02 - Top"
+      ],
+      "region": "Chapter 02 - Top",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 02 - Top - Item 04",
+      "category": [
+        "Chapter 02 - Top"
+      ],
+      "region": "Chapter 02 - Top",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 02 - Top - Item 05",
+      "category": [
+        "Chapter 02 - Top"
+      ],
+      "region": "Chapter 02 - Top",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 02 - Top - Item 06",
+      "category": [
+        "Chapter 02 - Top"
+      ],
+      "region": "Chapter 02 - Top",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 02 - Top - Item 07",
+      "category": [
+        "Chapter 02 - Top"
+      ],
+      "region": "Chapter 02 - Top",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 02 - Top - Item 08",
+      "category": [
+        "Chapter 02 - Top"
+      ],
+      "region": "Chapter 02 - Top",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 02 - Top - Item 09",
+      "category": [
+        "Chapter 02 - Top"
+      ],
+      "region": "Chapter 02 - Top",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 02 - Top - Item 10",
+      "category": [
+        "Chapter 02 - Top"
+      ],
+      "region": "Chapter 02 - Top",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 02 - Bottom - Item 01",
+      "category": [
+        "Chapter 02 - Bottom"
+      ],
+      "region": "Chapter 02 - Bottom",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 02 - Bottom - Item 02",
+      "category": [
+        "Chapter 02 - Bottom"
+      ],
+      "region": "Chapter 02 - Bottom",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 02 - Bottom - Item 03",
+      "category": [
+        "Chapter 02 - Bottom"
+      ],
+      "region": "Chapter 02 - Bottom",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 02 - Bottom - Item 04",
+      "category": [
+        "Chapter 02 - Bottom"
+      ],
+      "region": "Chapter 02 - Bottom",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 02 - Bottom - Item 05",
+      "category": [
+        "Chapter 02 - Bottom"
+      ],
+      "region": "Chapter 02 - Bottom",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 02 - Bottom - Item 06",
+      "category": [
+        "Chapter 02 - Bottom"
+      ],
+      "region": "Chapter 02 - Bottom",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 02 - Bottom - Item 07",
+      "category": [
+        "Chapter 02 - Bottom"
+      ],
+      "region": "Chapter 02 - Bottom",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 02 - Bottom - Item 08",
+      "category": [
+        "Chapter 02 - Bottom"
+      ],
+      "region": "Chapter 02 - Bottom",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 02 - Bottom - Item 09",
+      "category": [
+        "Chapter 02 - Bottom"
+      ],
+      "region": "Chapter 02 - Bottom",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 02 - Bottom - Item 10",
+      "category": [
+        "Chapter 02 - Bottom"
+      ],
+      "region": "Chapter 02 - Bottom",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 03 - Top - Item 01",
+      "category": [
+        "Chapter 03 - Top"
+      ],
+      "region": "Chapter 03 - Top",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 03 - Top - Item 02",
+      "category": [
+        "Chapter 03 - Top"
+      ],
+      "region": "Chapter 03 - Top",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 03 - Top - Item 03",
+      "category": [
+        "Chapter 03 - Top"
+      ],
+      "region": "Chapter 03 - Top",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 03 - Top - Item 04",
+      "category": [
+        "Chapter 03 - Top"
+      ],
+      "region": "Chapter 03 - Top",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 03 - Top - Item 05",
+      "category": [
+        "Chapter 03 - Top"
+      ],
+      "region": "Chapter 03 - Top",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 03 - Top - Item 06",
+      "category": [
+        "Chapter 03 - Top"
+      ],
+      "region": "Chapter 03 - Top",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 03 - Top - Item 07",
+      "category": [
+        "Chapter 03 - Top"
+      ],
+      "region": "Chapter 03 - Top",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 03 - Top - Item 08",
+      "category": [
+        "Chapter 03 - Top"
+      ],
+      "region": "Chapter 03 - Top",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 03 - Top - Item 09",
+      "category": [
+        "Chapter 03 - Top"
+      ],
+      "region": "Chapter 03 - Top",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 03 - Top - Item 10",
+      "category": [
+        "Chapter 03 - Top"
+      ],
+      "region": "Chapter 03 - Top",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 03 - Bottom - Item 01",
+      "category": [
+        "Chapter 03 - Bottom"
+      ],
+      "region": "Chapter 03 - Bottom",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 03 - Bottom - Item 02",
+      "category": [
+        "Chapter 03 - Bottom"
+      ],
+      "region": "Chapter 03 - Bottom",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 03 - Bottom - Item 03",
+      "category": [
+        "Chapter 03 - Bottom"
+      ],
+      "region": "Chapter 03 - Bottom",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 03 - Bottom - Item 04",
+      "category": [
+        "Chapter 03 - Bottom"
+      ],
+      "region": "Chapter 03 - Bottom",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 03 - Bottom - Item 05",
+      "category": [
+        "Chapter 03 - Bottom"
+      ],
+      "region": "Chapter 03 - Bottom",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 03 - Bottom - Item 06",
+      "category": [
+        "Chapter 03 - Bottom"
+      ],
+      "region": "Chapter 03 - Bottom",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 03 - Bottom - Item 07",
+      "category": [
+        "Chapter 03 - Bottom"
+      ],
+      "region": "Chapter 03 - Bottom",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 03 - Bottom - Item 08",
+      "category": [
+        "Chapter 03 - Bottom"
+      ],
+      "region": "Chapter 03 - Bottom",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 03 - Bottom - Item 09",
+      "category": [
+        "Chapter 03 - Bottom"
+      ],
+      "region": "Chapter 03 - Bottom",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 03 - Bottom - Item 10",
+      "category": [
+        "Chapter 03 - Bottom"
+      ],
+      "region": "Chapter 03 - Bottom",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 04 - Item 01",
+      "category": [
+        "Chapter 04"
+      ],
+      "region": "Chapter 04",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 04 - Item 02",
+      "category": [
+        "Chapter 04"
+      ],
+      "region": "Chapter 04",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 04 - Item 03",
+      "category": [
+        "Chapter 04"
+      ],
+      "region": "Chapter 04",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 04 - Item 04",
+      "category": [
+        "Chapter 04"
+      ],
+      "region": "Chapter 04",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 04 - Item 05",
+      "category": [
+        "Chapter 04"
+      ],
+      "region": "Chapter 04",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 04 - Item 06",
+      "category": [
+        "Chapter 04"
+      ],
+      "region": "Chapter 04",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 04 - Item 07",
+      "category": [
+        "Chapter 04"
+      ],
+      "region": "Chapter 04",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 04 - Item 08",
+      "category": [
+        "Chapter 04"
+      ],
+      "region": "Chapter 04",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 04 - Item 09",
+      "category": [
+        "Chapter 04"
+      ],
+      "region": "Chapter 04",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 04 - Item 10",
+      "category": [
+        "Chapter 04"
+      ],
+      "region": "Chapter 04",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 05 - Top - Item 01",
+      "category": [
+        "Chapter 05 - Top"
+      ],
+      "region": "Chapter 05 - Top",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 05 - Top - Item 02",
+      "category": [
+        "Chapter 05 - Top"
+      ],
+      "region": "Chapter 05 - Top",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 05 - Top - Item 03",
+      "category": [
+        "Chapter 05 - Top"
+      ],
+      "region": "Chapter 05 - Top",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 05 - Top - Item 04",
+      "category": [
+        "Chapter 05 - Top"
+      ],
+      "region": "Chapter 05 - Top",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 05 - Top - Item 05",
+      "category": [
+        "Chapter 05 - Top"
+      ],
+      "region": "Chapter 05 - Top",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 05 - Top - Item 06",
+      "category": [
+        "Chapter 05 - Top"
+      ],
+      "region": "Chapter 05 - Top",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 05 - Top - Item 07",
+      "category": [
+        "Chapter 05 - Top"
+      ],
+      "region": "Chapter 05 - Top",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 05 - Top - Item 08",
+      "category": [
+        "Chapter 05 - Top"
+      ],
+      "region": "Chapter 05 - Top",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 05 - Top - Item 09",
+      "category": [
+        "Chapter 05 - Top"
+      ],
+      "region": "Chapter 05 - Top",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 05 - Top - Item 10",
+      "category": [
+        "Chapter 05 - Top"
+      ],
+      "region": "Chapter 05 - Top",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 05 - Bottom - Item 01",
+      "category": [
+        "Chapter 05 - Bottom"
+      ],
+      "region": "Chapter 05 - Bottom",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 05 - Bottom - Item 02",
+      "category": [
+        "Chapter 05 - Bottom"
+      ],
+      "region": "Chapter 05 - Bottom",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 05 - Bottom - Item 03",
+      "category": [
+        "Chapter 05 - Bottom"
+      ],
+      "region": "Chapter 05 - Bottom",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 05 - Bottom - Item 04",
+      "category": [
+        "Chapter 05 - Bottom"
+      ],
+      "region": "Chapter 05 - Bottom",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 05 - Bottom - Item 05",
+      "category": [
+        "Chapter 05 - Bottom"
+      ],
+      "region": "Chapter 05 - Bottom",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 05 - Bottom - Item 06",
+      "category": [
+        "Chapter 05 - Bottom"
+      ],
+      "region": "Chapter 05 - Bottom",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 05 - Bottom - Item 07",
+      "category": [
+        "Chapter 05 - Bottom"
+      ],
+      "region": "Chapter 05 - Bottom",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 05 - Bottom - Item 08",
+      "category": [
+        "Chapter 05 - Bottom"
+      ],
+      "region": "Chapter 05 - Bottom",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 05 - Bottom - Item 09",
+      "category": [
+        "Chapter 05 - Bottom"
+      ],
+      "region": "Chapter 05 - Bottom",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 05 - Bottom - Item 10",
+      "category": [
+        "Chapter 05 - Bottom"
+      ],
+      "region": "Chapter 05 - Bottom",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 06 - Top - Item 01",
+      "category": [
+        "Chapter 06 - Top"
+      ],
+      "region": "Chapter 06 - Top",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 06 - Top - Item 02",
+      "category": [
+        "Chapter 06 - Top"
+      ],
+      "region": "Chapter 06 - Top",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 06 - Top - Item 03",
+      "category": [
+        "Chapter 06 - Top"
+      ],
+      "region": "Chapter 06 - Top",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 06 - Top - Item 04",
+      "category": [
+        "Chapter 06 - Top"
+      ],
+      "region": "Chapter 06 - Top",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 06 - Top - Item 05",
+      "category": [
+        "Chapter 06 - Top"
+      ],
+      "region": "Chapter 06 - Top",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 06 - Top - Item 06",
+      "category": [
+        "Chapter 06 - Top"
+      ],
+      "region": "Chapter 06 - Top",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 06 - Top - Item 07",
+      "category": [
+        "Chapter 06 - Top"
+      ],
+      "region": "Chapter 06 - Top",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 06 - Top - Item 08",
+      "category": [
+        "Chapter 06 - Top"
+      ],
+      "region": "Chapter 06 - Top",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 06 - Top - Item 09",
+      "category": [
+        "Chapter 06 - Top"
+      ],
+      "region": "Chapter 06 - Top",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 06 - Top - Item 10",
+      "category": [
+        "Chapter 06 - Top"
+      ],
+      "region": "Chapter 06 - Top",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 06 - Bottom - Item 01",
+      "category": [
+        "Chapter 06 - Bottom"
+      ],
+      "region": "Chapter 06 - Bottom",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 06 - Bottom - Item 02",
+      "category": [
+        "Chapter 06 - Bottom"
+      ],
+      "region": "Chapter 06 - Bottom",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 06 - Bottom - Item 03",
+      "category": [
+        "Chapter 06 - Bottom"
+      ],
+      "region": "Chapter 06 - Bottom",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 06 - Bottom - Item 04",
+      "category": [
+        "Chapter 06 - Bottom"
+      ],
+      "region": "Chapter 06 - Bottom",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 06 - Bottom - Item 05",
+      "category": [
+        "Chapter 06 - Bottom"
+      ],
+      "region": "Chapter 06 - Bottom",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 06 - Bottom - Item 06",
+      "category": [
+        "Chapter 06 - Bottom"
+      ],
+      "region": "Chapter 06 - Bottom",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 06 - Bottom - Item 07",
+      "category": [
+        "Chapter 06 - Bottom"
+      ],
+      "region": "Chapter 06 - Bottom",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 06 - Bottom - Item 08",
+      "category": [
+        "Chapter 06 - Bottom"
+      ],
+      "region": "Chapter 06 - Bottom",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 06 - Bottom - Item 09",
+      "category": [
+        "Chapter 06 - Bottom"
+      ],
+      "region": "Chapter 06 - Bottom",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 06 - Bottom - Item 10",
+      "category": [
+        "Chapter 06 - Bottom"
+      ],
+      "region": "Chapter 06 - Bottom",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 07 - Item 01",
+      "category": [
+        "Chapter 07"
+      ],
+      "region": "Chapter 07",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 07 - Item 02",
+      "category": [
+        "Chapter 07"
+      ],
+      "region": "Chapter 07",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 07 - Item 03",
+      "category": [
+        "Chapter 07"
+      ],
+      "region": "Chapter 07",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 07 - Item 04",
+      "category": [
+        "Chapter 07"
+      ],
+      "region": "Chapter 07",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 07 - Item 05",
+      "category": [
+        "Chapter 07"
+      ],
+      "region": "Chapter 07",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 07 - Item 06",
+      "category": [
+        "Chapter 07"
+      ],
+      "region": "Chapter 07",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 07 - Item 07",
+      "category": [
+        "Chapter 07"
+      ],
+      "region": "Chapter 07",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 07 - Item 08",
+      "category": [
+        "Chapter 07"
+      ],
+      "region": "Chapter 07",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 07 - Item 09",
+      "category": [
+        "Chapter 07"
+      ],
+      "region": "Chapter 07",
+      "requires": ""
+    },
+    {
+      "name": "Chapter 07 - Item 10",
+      "category": [
+        "Chapter 07"
+      ],
+      "region": "Chapter 07",
+      "requires": ""
+    },
+    {
+      "name": "Victory - Chapter 07 Completed",
+      "category": [
+        "Win Condition"
+      ],
+      "region": "Chapter 07",
+      "victory": true,
+      "requires": ""
+    }
+  ]
+}
