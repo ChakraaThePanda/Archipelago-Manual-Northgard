@@ -1,4 +1,10 @@
 # Archipelago-Manual-Northgard
+
+> **This project is sunsetted and no longer maintained.** It's been replaced by a
+> dedicated (non-Manual) Northgard apworld with real in-game Chapter-lock enforcement and
+> a live-updating Conquest map: [Archipelago-Northgard](https://github.com/ChakraaThePanda/Archipelago-Northgard).
+> Use that one instead.
+
 This manual is to be used with the game Northgard, using the Conquest mode.
 
 ## Goal
